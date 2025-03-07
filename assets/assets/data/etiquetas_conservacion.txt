@@ -1,0 +1,12 @@
+categoria
+["Cuidado Del Cabello", "Medicinal"]
+["Decoración"]
+["Curativa"]
+["Curativa", "Condimento", "Medicinal"]
+[""]
+[""]
+[""]
+["Decoración"]
+["Curativa"]
+["Curativa"]
+["Medicinal"]

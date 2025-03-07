@@ -1,0 +1,3132 @@
+{
+  "conservacion": [
+    {
+      "id": 0,
+      "imagen": "assets/imag/conservacion190p/cabeza_de_arriera.png",
+      "nombre": "<nh> Cabeza de arriera",
+      "nom_cientifico": "<nh> Pavonia schiedeana",
+      "familia": "<nh> Malvaceae",
+      "genero": "<nh> Pavonia",
+      "origen": "<nh> América Tropical",
+      "descripcion": "<nh> Subarbustos o arbustos de más de 2 m de altura, diminutamente estrellado  pubescentes. Inflorescencias con pedúnculos axilares, densas, semejantes a una cabezuela o sea un racimo condensado. El tipo de vegetación en el que se encuentra es la selva mediana y alta perennifolia, bosque de pino-encino, bosque caducifolio^ incluyendo márgenes del bosque, orilla de caminos, de arroyos y en campos de cultivo. La floración es todo el año.",
+      "uso": "<nh> El nombre se le atribuye a que el fruto seco se asemeja una cabeza de hormiga."
+    },
+    {
+      "id": 1,
+      "imagen": "assets/imag/conservacion190p/flor_de_cera.png",
+      "nombre": "<nh> Flor de cera",
+      "nom_cientifico": "<nh> Palicourea padifolia",
+      "familia": "<nh> Rubiaceae",
+      "genero": "<nh> Palicourea",
+      "origen": "<nh> Costa Rica",
+      "descripcion": "<nh> Es un arbusto (2 a 7 m de altura) común del sotobosque con inflorescencias piramidales y flores tubulares. Cada individuo produce alrededor de 40 inflorescencias y en cada inflorescencia abren tres flores de manera asincrónica por día, durante el periodo de floración que va de Marzo a Agosto.",
+      "uso": "<nh> Las  inflorescencias  son  piramidales  púrpuras  rojizas  con  flores  amarillas  que  se  abren  solo  un  día."
+    },
+    {
+      "id": 2,
+      "imagen": "assets/imag/conservacion190p/hierba_mora.png",
+      "nombre": "<nh> Hierba mora",
+      "nom_cientifico": "<nh> Solanum americanum o Solanum nigrum",
+      "familia": "<nh> Solanaceae",
+      "genero": "<nh> Solanum",
+      "origen": "<nh> América, aunque su origen exacto es desconocido",
+      "descripcion": "<nh> La yerba mora tiene un sabor herbáceo, olor ligeramente fétido, que se elimina con la cocción, así como las sustancias nocivas que puede tener. Las hojas pueden sustituir a las de la espinaca y debido a su alto contenido de proteína.",
+      "uso": "<nh> A esta planta se le atribuyen varias propiedades curativas. El pueblo chino la utiliza para tratar la inflamación y los edemas debido a su efecto diurético y antipirético. Las hojas son utilizadas como drogas para desórdenes del sistema nervioso, emplastos para el reumatismo, en enfermedades de la piel y en el tratamiento de la tuberculosis."
+    },
+    {
+      "id": 3,
+      "imagen": "assets/imag/conservacion190p/hoja_santa.png",
+      "nombre": "<nh> Hoja santa",
+      "nom_cientifico": "<nh> Piper auritum",
+      "familia": "<nh> Piperaceae",
+      "genero": "<nh> Piper",
+      "origen": "<nh> Del centro y sur de México hasta Perú",
+      "descripcion": "<nh> La planta es un arbusto subleñoso de hasta 4 m de altura.",
+      "uso": "<nh> Sus aceites esenciales en particular inhiben el crecimiento de un amplio grupo de microorganismos que causan infecciones importantes en el hombre, las plantas y los animales. Usada como condimento en países de América Central. Sus hojas se emplean como emoliente, agente antirreumático, diurético, estimulante y abortivo, posee actividad antiinflamatoria, antibacteriana, antifúngica y antidermatofitica."
+    },
+    {
+      "id": 4,
+      "imagen": "assets/imag/conservacion190p/hormiguillo.png",
+      "nombre": "<nh> Hormiguillo u Hormigo",
+      "nom_cientifico": "<nh> Cecropia obtusifolia",
+      "familia": "<nh> Urticaceae",
+      "genero": "<nh> Cecropia",
+      "origen": "<nh> América Central",
+      "descripcion": "<nh> Árbol perennifolio, mirmecófilo, de 20 a 25 m (hasta 35 m) de altura. Hojas en forma de sombrilla, estratificada, con todas las hojas expuestas a la luz directa del sol.",
+      "uso": "<nh> En la parte basal de cada peciolo de la hoja aparecen unas estructuras lanosas llamadas trichilia, en las cuales se producen unos corpúsculos de color blanco: los cuerpos müllerianos, estos son estructuras multicelulares en forma de huevo (0.75 por 0.25 mm) y que las hormigas constantemente remueven con fines alimenticios."
+    },
+    {
+      "id": 5,
+      "imagen": "assets/imag/conservacion190p/lengua_de_ciervo.png",
+      "nombre": "<nh> Lengua de ciervo",
+      "nom_cientifico": "<nh> Niphidium crassifolium",
+      "familia": "<nh> Polypodiaceae",
+      "genero": "<nh> Niphidium",
+      "origen": "<nh> Neotropical",
+      "descripcion": "<nh> Crece como epífito o epipétrico en selvas altas perennifolias, en bosques mesófilos de montaña y en bosques de Pinus-Quercus-Liquidambar. Frondas erguidas, monomorfas de hasta 1 m de largo.",
+      "uso": "<nh> Niphidium es un género exclusivamente Neotropical compuesto de 10 especies, que se encuentran desde las Antillas y Sureste de México a Bolivia y Noreste de Argentina"
+    },
+    {
+      "id": 6,
+      "imagen": "assets/imag/conservacion190p/mozote.png",
+      "nombre": "<nh> Mozote",
+      "nom_cientifico": "<nh> Bidens pilosa",
+      "familia": "<nh> Asteraceae",
+      "genero": "<nh> Bidens",
+      "origen": "<nh> América o Sudamérica",
+      "descripcion": "<nh> Hierba erecta, anual o perenne, de hoja ancha (hasta 1 m de altura) con raíz primaria fuerte. Los tallos no tienen vellosidad. Las hojas son compuestas con 3-5 folíolos cada una y color verde.",
+      "uso": "<nh> Es una maleza tropical de origen americano con una distribución amplia en el mundo. Invade: Cultivos, plantaciones, pastos, tierras perturbadas, áreas baldías, tierras en barbecho y jardines."
+    },
+    {
+      "id": 7,
+      "imagen": "assets/imag/conservacion190p/nacasburro.png",
+      "nombre": "<nh> Nacasburro",
+      "nom_cientifico": "<nh> Peperomia maculosa",
+      "familia": "<nh> Piperaceae",
+      "genero": "<nh> Peperomia",
+      "origen": "<nh> América",
+      "descripcion": "<nh> Las Peperomias son hierbas perennes. El tallo frecuentemente suculento. Lámina entera y frecuentemente suculenta. Inflorescencia en espiga simple o compuesta. Generalmente son epifitas, rupícolas, saxícolas o epilíticas.",
+      "uso": "<nh> Para México se tienen reportadas la ocurrencia de 116 especies de esta familia, siendo Chiapas, Oaxaca y Veracruz las entidades más ricas en estas herbáceas. El uso más popular de las Peperomias son como plantas ornamentales, estimadas por sus tallos y/o hojas suculentas."
+    },
+    {
+      "id": 8,
+      "imagen": "assets/imag/conservacion190p/tepejilote.png",
+      "nombre": "<nh> Tepejilote",
+      "nom_cientifico": "<nh> Chamaedorea tepejilote",
+      "familia": "<nh> Arecaceae",
+      "genero": "<nh> Chamaedorea",
+      "origen": "<nh> Sur de México, Centroamérica y norte de Colombia",
+      "descripcion": "<nh> Crece en los bosques mesófilos, selva mediana perennifolia y subperennifolia, en sitios poco sombreados y suelos pedregosos con roca aflorante.",
+      "uso": "<nh> El nombre Tepejilote deriva de una voz náhuatl y significa: espiga de monte. México se considera el país con mayor diversidad de especies de este género. La inflorescencia del Tepejilote ha sido desde mucho tiempo alimento tradicional de las comunidades indígenas de Mesoamérica. El Tepejilote se encuentra en un riesgo importante de desaparecer de los terrenos comunales debido a las actividades de los cultivos agrícolas."
+    },
+    {
+      "id": 9,
+      "imagen": "assets/imag/conservacion190p/teshuat.png",
+      "nombre": "<nh> Teshuat",
+      "nom_cientifico": "<nh> Miconia trinervia",
+      "familia": "<nh> Melastomataceae",
+      "genero": "<nh> Miconia",
+      "origen": "<nh> Nativo zonas cálidas y tropicales de América",
+      "descripcion": "<nh> Árboles, arbustos o hierbas generalmente terrestres. Hojas usualmente con tres nervios primarios paralelos que recorren la hojas desde la base anastomosándose en el ápice. Son árboles muy apropiados para parques y jardines grandes ya que contienen alimento para la fauna silvestre.",
+      "uso": "<nh> En registros de herbarios las especies ecuatorianas de Melastomataceae son utilizadas principalmente para tratar heridas, picaduras de culebras y para construcciones."
+    },
+    {
+      "id": 10,
+      "imagen": "assets/imag/conservacion190p/zapote_domingo.png",
+      "nombre": "<nh> Zapote domingo",
+      "nom_cientifico": "<nh> Mammea americana o Gutifera mammea",
+      "familia": "<nh> Calophyllaceae",
+      "genero": "<nh> Mammea",
+      "origen": "<nh> Probablemente de las Antillas",
+      "descripcion": "<nh> Alcanza de 18 a 21 m de altura, sus hojas son grandes, duras, de color verde oscuro en el anverso y verde pálido en el reverso, con las puntas redondeadas. Frutos ligeramente redondos, con la cáscara gruesa y áspera, de color café claro y la pulpa es rojizo - anaranjada y dulce. Flores blancas y aromáticas.",
+      "uso": "<nh> La florescencia ocurre entre Mayo y Octubre, pero la fruta tarda más de un año para madurar."
+    }
+  ],
+  "produccion": [
+    {
+      "id": 0,
+      "imagen": "assets/imag/produccion190p/acalote.png",
+      "nombre": "<nh> Acalote",
+      "nom_cientifico": "<nh> Pinus chiapensis",
+      "familia": "<nh> Pinaceae",
+      "genero": "<nh> Pinus",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Son árboles de tronco recto, de 25 a 30 m de altura o más, con un diámetro de 1 m aproximadamente, corteza muy fisurada y ramas extendidas. Su importancia radica en su rápido crecimiento, alcanza un máximo de hasta 3 cm anuales en diámetro. Por sus características xilotecnológicas, se aprovecha en forma intensiva, lo cual hace que se considere amenazado de extinción y este bajo protección especial. Los suelos donde se distribuye esta especie generalmente están poco perturbados y erosionados.",
+      "uso": "<nh> Su madera se utiliza localmente para la fabricación de muebles y herramientas, y para construcción."
+    },
+    {
+      "id": 1,
+      "imagen": "assets/imag/produccion190p/ahuehuete.png",
+      "nombre": "<nh> Ahuehuete",
+      "nom_cientifico": "<nh> Taxodium huegelii sinónimo o Taxodium mucronatum",
+      "familia": "<nh> Cupressaceae",
+      "genero": "<nh> Taxodium",
+      "origen": "<nh> Nativo de México",
+      "descripcion": "<nh> El Ahuehuete es una de las especies más longevas. Alcanza alturas hasta de 40 m y diámetros hasta de 120 cm. Es perennifolio, produce conos de febrero a marzo que maduran entre mayo y junio se le conoce como Ahuehuete, Sabino o Ciprés de Moctezuma.",
+      "uso": "<nh> Es un árbol con un gran valor cultural, es maderable y tiene propiedades medicinales. La madera es utilizada para la fabricación de canoas, postes y vigas. El follaje es utilizado en arreglos florales y ceremonias. Utilizado como indicador de mantos acuíferos superficiales y para la restauración en parques y orillas de ríos."
+    },
+    {
+      "id": 2,
+      "imagen": "assets/imag/produccion190p/alcatraz.png",
+      "nombre": "<nh> Alcatraz",
+      "nom_cientifico": "<nh> Zantedeschia aethiopica",
+      "familia": "<nh> Araceae",
+      "genero": "<nh> Zantedeschia",
+      "origen": "<nh> Sudafricano",
+      "descripcion": "<nh> Esta planta es apreciada por sus inflorescencias, que consisten de numerosas flores adjuntas a lo largo de un espádice envuelto por una espata. Estas plantas presentan fotoperiodo neutro. Prefieren temperaturas entre 15 y 28°C que, por lo general, son proporcionadas dentro de invernaderos. ",
+      "uso": "<nh> Los principales estados productores son Veracruz, Puebla, Jalisco, Chiapas, Oaxaca, Colima y el Estado de México. De no ser cultivada, se puede encontrar de manera natural en ecosistemas boscosos, tropicales y subtropicales."
+    },
+    {
+      "id": 3,
+      "imagen": "assets/imag/produccion190p/anona.png",
+      "nombre": "<nh> Anona",
+      "nom_cientifico": "<nh> Annona squamosa",
+      "familia": "<nh> Oxalidaceae",
+      "genero": "<nh> Averrhoa",
+      "origen": "<nh> Centroamérica y México",
+      "descripcion": "<nh> Árbol leñoso de 3 a 6 m de altura. Presenta hojas simples y alternas. Flores hermafroditas, con 6 o más estambres, solitarias o en grupos de color rojo oscuro o marrón. Presenta inflorescencia blanca. Fruto ovoide elipsoidal, con escamas, verde claro y rosado. Pulpa verde, azucarada muy aromática, contiene semillas negras brillantes.",
+      "uso": "<nh> El fruto se consume en fresco. Utilizado para elaborar helados y postres. Las semillas frescas tienen propiedades insecticidas."
+    },
+    {
+      "id": 4,
+      "imagen": "assets/imag/produccion190p/arandano.png",
+      "nombre": "<nh> Arandano",
+      "nom_cientifico": "<nh> Vaccinium macrocarpon",
+      "familia": "<nh> Ericaceae",
+      "genero": "<nh> Vaccinium",
+      "origen": "<nh> Norte de Europa",
+      "descripcion": "<nh> Arbusto pequeño o enredadera leñosa, de tipo perenne. De crecimiento lento y con una altura de 10 a 20 cm. Tallos rastreros y delgados. Presenta raíces muy finas y fibrosas, carecen de pelos radiculares. Las hojas son oval-alargadas, color verde oscuro y blanquecinas por debajo, durante el invierno tienden  cambiar a una coloración marrón-rojizo. Floración en forma de campana color rosa con pétalos recurvados. Los frutos son bayas  inicialmente blancas que tornan a color rojizo rosado brillante al madurar.",
+      "uso": "<nh> Los frutos son comestibles y presentan un sabor acido-amargo que se pueden consumir en fresco, deshidratados, concentrados o en polvo, también se procesan para elaborar bebidas, salsas, gelatina, mermeladas y dulces."
+    },
+    {
+      "id": 5,
+      "imagen": "assets/imag/produccion190p/begonia_bambu.png",
+      "nombre": "<nh> Begonia Bambú",
+      "nom_cientifico": "<nh> Begonia albopicta",
+      "familia": "<nh> Begoniaceae",
+      "genero": "<nh> Begonia",
+      "origen": "<nh> Introducida Brasil",
+      "descripcion": "<nh> Esta variedad pertenece al grupo de las arbustivas. Puede llegar a casi un metro de altura. Muy ramificada. Tallos cilíndricos de color verde. La Begonia albopicta se parece a la Begonia maculata, ambos tipos de Begonias se caracterizan ya que presentan el punteado color plata en sus hojas, lo que la hace extremadamente original y atractiva.",
+      "uso": "<nh> Las begonias son plantas herbáceas terrestres aunque también las hay  que son epifitas. Pueden ser perennes o anuales siempre dependiendo del frío."
+    },
+    {
+      "id": 6,
+      "imagen": "assets/imag/produccion190p/bigotillo.png",
+      "nombre": "<nh> Bigotillo o Clavelina",
+      "nom_cientifico": "<nh> Caesalpinia pulcherrima",
+      "familia": "<nh> Fabaceae",
+      "genero": "<nh> Caesalpinia",
+      "origen": "<nh> Trópicos de América",
+      "descripcion": "<nh> Arbusto, de copa irregular y dispersa, extendida, con ramas delgadas en forma de paraguas. Las ramas poseen espinas. Sus flores son muy vistosas, se presentan en inflorescencias terminales, de gran colorido variando desde amarillo hasta rojo. Produce frutos secos, tipo vaina, color café cuando se encuentran maduros, son coriáceos, aplanados, de aproximadamente 10 cm de largo, en forma de espiral al abrirse.",
+      "uso": "<nh> Propiedades curativas, tales como el tratamiento de la bronquitis y el asma."
+    },
+    {
+      "id": 7,
+      "imagen": "assets/imag/produccion190p/blanca_mariposa.png",
+      "nombre": "<nh> Blanca mariposa ",
+      "nom_cientifico": "<nh> Hedychium coronarium",
+      "familia": "<nh> Zingyberaceae",
+      "genero": "<nh> Hedychium",
+      "origen": "<nh> India Occidental ",
+      "descripcion": "<nh> Las  flores son blancas, grandes y muy perfumadas, de un día de duración. Florece durante todo el año. Es considerada una invasora muy nociva en varias islas del pacifico como Hawái, en bosques de galería y bosques húmedos de Brasil.",
+      "uso": "<nh> Los aceites volátiles de las flores se extraen como esencia para perfumes. La raíz también contiene aceites volátiles empleados para la medicina popular. El tallo es rico en fibras y se puede usar para producir papel. Algunos ensayos arrojan actividad analgésica y antinflamatoria de los extractos de la raíz en modelos animales. Tiene potencial para ser usado en el tratamiento de aguas residuales."
+    },
+    {
+      "id": 8,
+      "imagen": "assets/imag/produccion190p/buganvilia.png",
+      "nombre": "<nh> Buganvilia",
+      "nom_cientifico": "<nh> Bougainvillea glabra",
+      "familia": "<nh> Nyctaginaceae",
+      "genero": "<nh> Bougainvillea",
+      "origen": "<nh> Introducido",
+      "descripcion": "<nh> Planta trepadora de follaje simple, alternas. Tallos largos de hasta 12 m, con espinas bajo las hojas. Inflorescencia compuesta de tres brácteas, color púrpura, en el centro se encuentran tres flores blanco-amarillentas tubulares. Hojas simples, alternas de forma ovalada o lanceolada de coloración verde oscuro.",
+      "uso": "<nh> Hojas tiernas y brácteas en infusión se utilizan para la diarrea y dolor de estómago. Incluso las flores, para tratar la tos, asma y gripe. Raíces como purgante."
+    },
+    {
+      "id": 9,
+      "imagen": "assets/imag/produccion190p/cactus_catedral.png",
+      "nombre": "<nh> Cactus catedral ",
+      "nom_cientifico": "<nh> Euphorbia trigona",
+      "familia": "<nh> Euphorbiaceae",
+      "genero": "<nh> Euphorbia",
+      "origen": "<nh> África sudoriental",
+      "descripcion": "<nh> Euphorbia es un género amplio y cosmopolita, con alrededor de 2.000 especies distribuidas por todo el mundo.",
+      "uso": "<nh> El látex seco que proviene de la planta se utilizaba en enfermedades agudas y crónicas, tanto de animales como de personas, siendo utilizado aún en la actualidad por algunas tribus, aunque en ocasiones puede ser tóxico. Con el avance de la medicina y debido a la toxicidad de su látex, el empleo de Euphorbia como planta medicinal es cada día menor. Se dice que la savia de algunas plantas, las cuales crecen curiosamente junto a la Euphorbia, constituye un antídoto de la irritación de su látex."
+    },
+    {
+      "id": 10,
+      "imagen": "assets/imag/produccion190p/calathea_lancifolia.png",
+      "nombre": "<nh> Calathea lancifolia",
+      "nom_cientifico": "<nh> Calathea lancifolia",
+      "familia": "<nh> Marantaceae",
+      "genero": "<nh> Calathea",
+      "origen": "<nh> Introducida Brasil",
+      "descripcion": "<nh> Es una planta de hojas grandes, lanceoladas y perennes~ en el fondo son de color crema y tiene manchas redondas de tono verde intenso, el envés de las hojas es de color mas rojizo como el del vino tinto. Aunque no son frecuentes, produce flores de color amarillento que nos recuerda la cola de la serpiente de cascabel",
+      "uso": "<nh> La Calathea presenta un ritmo de día y otro de noche, sus hojas se mueven si hay un exceso de luz se levantan o enrollan sobre si mismas para exponer menos superficie a la luz y lo contrario y lo realizan para para adaptarse a las condiciones del ambiente que más les favorece. Los indios en América del Sur usaban esta planta como material de construcción para reforzar el techo de sus viviendas."
+    },
+    {
+      "id": 11,
+      "imagen": "assets/imag/produccion190p/canela.png",
+      "nombre": "<nh> Canela",
+      "nom_cientifico": "<nh> Cinnamomun verum",
+      "familia": "<nh> Lauraceae",
+      "genero": "<nh> Cinnamomun",
+      "origen": "<nh> Introducido",
+      "descripcion": "<nh> Árbol siempre verde, llega a medir 12 m, su corteza es un condimento de gran sabor. Hojas ovaladas, puntiagudas y de color verde brillante. Flores blancas. Fruto en forma de baya muy alarfada, similar a una bellota de color azulado-negro, con una mínima semilla.",
+      "uso": "<nh> La corteza molida se utiliza para dar sabor a postres, pasteles y dulces. Corteza entera en infusión: Para resfriados y gripe. Problemas gastrointestinales. Combate la diarrea y las nauseas. El nombre genérico Cinnamomum proviene del griego Kinnamon o Kinnamomon, que significa madera dulce."
+    },
+    {
+      "id": 12,
+      "imagen": "assets/imag/produccion190p/cana_de_azucar.png",
+      "nombre": "<nh> Caña de azúcar",
+      "nom_cientifico": "<nh> Saccharum officinarum",
+      "familia": "<nh> Poaceae",
+      "genero": "<nh> Saccharum",
+      "origen": "<nh> Sudeste Asiático",
+      "descripcion": "<nh> Está compuesta por una parte sólida llamada fibra y una parte líquida, el jugo, que contiene agua y sacarosa. El desarrollo vegetativo de la caña depende de la condición del ambiente. La recolección de la caña se lleva a cabo entre los once y los dieciséis meses de la plantación.",
+      "uso": "<nh> Se cultivó por primera vez el Sureste Asiático y la India Occidental. El bagazo es la materia prima para la elaboración del papel. La melaza y el bagazo son los principales subproductos de la industria azucarera, la melaza es la materia prima para la elaboración del alcohol y por lo tanto el principal insumo de la industria alcoholera."
+    },
+    {
+      "id": 13,
+      "imagen": "assets/imag/produccion190p/carambolo.png",
+      "nombre": "<nh> Carambolo",
+      "nom_cientifico": "<nh> Averrhoa carambola",
+      "familia": "<nh> Oxalidaceae",
+      "genero": "<nh> Averrhoa",
+      "origen": "<nh> Tailandia",
+      "descripcion": "<nh> Arbusto perennifolio muy vistoso, de altura mediana con ramas colgantes, hojas grandes y flores pequeñas  en racimo, moradas o rojas. Clima: subtropical-tropical. Existen dos variedades de frutos, agrios y dulces. Tiene pocas semillas. Sensible a heladas. El fruto pesa entre 100 y 200 g.",
+      "uso": "<nh> Se puede consumir fresco, entero y en ensaladas. Se elabora jugo casero, mermeladas, fruta congelada, puré y almíbar. La madera, para construcción de muebles y otros utensilios. Para contener hemorragias. Calmar la fiebre."
+    },
+    {
+      "id": 14,
+      "imagen": "assets/imag/produccion190p/cepillo_rojo.png",
+      "nombre": "<nh> Cepillo rojo",
+      "nom_cientifico": "<nh> Callistemon citrinus",
+      "familia": "<nh> Myrtaceae",
+      "genero": "<nh> Callistemon",
+      "origen": "<nh> Estados de Queensland, Nueva Gales del Sur y Victoria en Australia",
+      "descripcion": "<nh> Árbol de hasta 10 m de alto o arbusto, con tronco pequeño. Copa globosa y follaje permanente. Flores rojas bisexuales, tubulares, crecen agrupadas formando escobillones en las puntas. Se desarrolla muy bien en climas templados, aunque tolera heladas o bajas temperaturas, siempre y cuando no sean prolongadas. Polinizado por insectos y aves que se alimentan de su néctar.",
+      "uso": "<nh> Las hojas son aromáticas de ahí el nombre citrinus, por su aroma a limón."
+    },
+    {
+      "id": 15,
+      "imagen": "assets/imag/produccion190p/chaya.png",
+      "nombre": "<nh> Chaya",
+      "nom_cientifico": "<nh> Cnidoscolus aconitifolius",
+      "familia": "<nh> Euphorbiaceae",
+      "genero": "<nh> Cnidoscolus",
+      "origen": "<nh> Nativa",
+      "descripcion": "<nh> Arbusto perennifolio que mide aproximadamente 4 m de altura. Hojas simples de coloración amarillo verdosas. Floración blanca. Contiene abundante látex blanco, en tallo y hojas. ",
+      "uso": "<nh> Como alimento alternativo, por su excelente contenido de calcio, ácido ascórbico, hierro y proteína. Se preparan ensaladas, sopas e infusiones. Infusiones para tratar el acné, cálculos renales, la obesidad, hemorroides y funcional como antiparasitario."
+    },
+    {
+      "id": 16,
+      "imagen": "assets/imag/produccion190p/chirimoya.png",
+      "nombre": "<nh> Chirimoya",
+      "nom_cientifico": "<nh> Annona cherimola",
+      "familia": "<nh> Annonaceae",
+      "genero": "<nh> Annona",
+      "origen": "<nh> Introducido",
+      "descripcion": "<nh> Árbol erecto de poco crecimiento, de aspecto arbustivo y extendido. Hojas alternas de forma ovoide, color verde oscuro en la parte superior y aterciopelada en la parte inferior. Flores fragantes, solitarias o en grupos. Flores fragantes, solitarias o en grupos. Fruto de forma codiforme o cónica, piel o gruesa, suave, de color verde pálido y está cubierta de escamas o protuberancias redondas. Su pulpa es blanca, jugosa y carnosa, con un agradable aroma y un delicioso sabor semiácido. Contiene numerosas semillas duras, brillantes, en forma de fríjol, de color café o negro y que miden de 1 a 2 cm de longitud.  ",
+      "uso": "<nh> Se consume la fruta fresca sola, en ensaladas o se preparan jugos y helados. Las semillas tostadas y pulverizadas, mezcladas con agua como un potente purgante. Mezcladas con grasa, se utilizan para matar piojos. La piel de la fruta, se utiliza en casos de neumonía."
+    },
+    {
+      "id": 17,
+      "imagen": "assets/imag/produccion190p/coleo.png",
+      "nombre": "<nh> Coleo, Cretona o Vergüenza",
+      "nom_cientifico": "<nh> Plectranthus scutellarioides",
+      "familia": "<nh> Lamiaceae",
+      "genero": "<nh> Plectranthus",
+      "origen": "<nh> Sudeste Asiático",
+      "descripcion": "<nh> Es una planta perenne de hoja perenne, arbustiva y leñosa, se sabe que es invasora en Cuba. Esta especie es colocada por algunos autores en el género Solenostemon",
+      "uso": "<nh> La especie se considera una planta medicinal en muchas culturas, pero también se ha clasificado como alucinógeno narcótico"
+    },
+    {
+      "id": 18,
+      "imagen": "assets/imag/produccion190p/costilla_de_adan.png",
+      "nombre": "<nh> Costilla de Adán o Cerimán",
+      "nom_cientifico": "<nh> Monstera deliciosa",
+      "familia": "<nh> Araceae",
+      "genero": "<nh> Monstera",
+      "origen": "<nh> Centroamérica y Sudamérica",
+      "descripcion": "<nh> Se caracteriza por poseer unas grandes hojas verdes partidas como si de costillas. Crea tallos flexibles ya que en realidad es una planta trepadora que requiere soportes para mantenerse erguida. Para poder sujetarse a los soportes crea unas gruesas raíces aéreas que se introducen en las grietas de las paredes.",
+      "uso": "<nh> En su hábitat natural produce unas flores de tono blanquecino y formas redondeadas. También genera un fruto alargado con una apariencia que se nos puede antojar un tanto extraño. Su sabor es parecido al de la piña y hay que tener cuidado al consumirlo, pues si no está suficientemente maduro podría resultar tóxico."
+    },
+    {
+      "id": 19,
+      "imagen": "assets/imag/produccion190p/croton_mammi.png",
+      "nombre": "<nh> Croton mammi",
+      "nom_cientifico": "<nh> Codiaeum mammi/ variegatum",
+      "familia": "<nh> Euphorbiaceae",
+      "genero": "<nh> Codiaeum",
+      "origen": "<nh> Malasia e Indonesia",
+      "descripcion": "<nh> Esta planta es un arbusto y algunas veces se considera como árbol ya que puede llegar a medir hasta cinco metros de altura, en donde sus hojas son de forma linear u oblonga. Las hojas poseen una pigmentación de color verde a lo cual según su proceso de fotosíntesis así como el clima en que se encuentren a vista se le notan con manchas de varios colores como blanco, amarillo o rojo.",
+      "uso": "<nh> Las flores, son poco llamativas, careciendo de interés ornamental."
+    },
+    {
+      "id": 20,
+      "imagen": "assets/imag/produccion190p/curcuma.png",
+      "nombre": "<nh> Cúrcuma",
+      "nom_cientifico": "<nh> Cúrcuma longa",
+      "familia": "<nh> Zingiberaceae",
+      "genero": "<nh> Cúrcuma",
+      "origen": "<nh> Introducida~ Asia",
+      "descripcion": "<nh> Hierba perenne de casi 1 m de altura, con rizomas subterráneos cilíndricos y aromáticos, amarillo brillante en su interior. De hojas grandes, anchas y con pecíolos largos, verde claro. Las flores amarillas se agrupan en espigas basales con brácteas violáceas. ",
+      "uso": "<nh> Condimento muy utilizado en la cocina tradicional, es el componente que le da el color amarillo intenso a la mostaza, se comercializa tanto la raíz como el polvo y se le atribuyen propiedades medicinales, además de la elaboración de algunos cosméticos, protectores solares y gomas de mascar."
+    },
+    {
+      "id": 21,
+      "imagen": "assets/imag/produccion190p/damasquita.png",
+      "nombre": "<nh> Damasquina",
+      "nom_cientifico": "<nh> Tagetes erecta",
+      "familia": "<nh> Asteraceae",
+      "genero": "<nh> Tagetes",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Crecen como plantas ornamentales en una diversidad de agro climas. Inflorescencias grandes amarillas o anaranjadas.",
+      "uso": "<nh> Controla enfermedades respiratorias de origen bacteriano. Efectivo contra infecciones dermatomucosas causadas por hongos. Ornamental, Bioinsecticida, Biofertilizante y Fitorremediador. Son las utilizadas con fines suntuarios en la ceremonia de día de muertos~ festividad tradicional mexicana, reconocida a nivel mundial. "
+    },
+    {
+      "id": 22,
+      "imagen": "assets/imag/produccion190p/durazno.png",
+      "nombre": "<nh> Durazno",
+      "nom_cientifico": "<nh> Prunus pérsica",
+      "familia": "<nh> Rosaceae",
+      "genero": "<nh> Prunus",
+      "origen": "<nh> China",
+      "descripcion": "<nh> Árbol pequeño, caducifolio que alcanza 6 m de altura, corteza lisa, presenta ramas lisas de color verde en la parte expuesta al sol. Hojas simples, lanceoladas de 7.5-15 cm. Flores generalmente solitarias de color rosa a rojo, según la variedad. Fruto en forma de drupa, de gran tamaño.",
+      "uso": "<nh> Hojas simples, lanceoladas de 7.5-15 cm. Flores generalmente solitarias de color rosa a rojo, según la variedad. Fruto en forma de drupa, de gran tamaño."
+    },
+    {
+      "id": 23,
+      "imagen": "assets/imag/produccion190p/estreptocarpo.png",
+      "nombre": "<nh> Estreptocarpo",
+      "nom_cientifico": "<nh> Streptocarpus saxorum",
+      "familia": "<nh> Gesneriaceae",
+      "genero": "<nh> Streptocarpus",
+      "origen": "<nh> Kenia y Tanzania",
+      "descripcion": "<nh> Las plantas de este género son hierbas anuales o perennes, con tallos erectos y ramificados o rastreros, en ocasiones acaules. El fruto es una cápsula cilíndrica que puede medir de 2 a 15 cm de largo, conteniendo numerosas semillas diminutas. ",
+      "uso": "<nh> Origina sus pequeñas flores de manera continua durante la primavera y el verano, incluso puede hacerlo durante más tiempo si las circunstancias de temperatura y humedad son propicias, produciendo largos y menudos tallos rojizos semejantes a finos alambres, de los que brotan las flores tubulares de color azul violeta."
+    },
+    {
+      "id": 24,
+      "imagen": "assets/imag/produccion190p/flemingia.png",
+      "nombre": "<nh> Flemingia",
+      "nom_cientifico": "<nh> Flemingia macrophylla",
+      "familia": "<nh> Fabaceae",
+      "genero": "<nh> Flemingia",
+      "origen": "<nh> Sur de China",
+      "descripcion": "<nh> Arbusto perenne de tallo erguido crece de 1.5 m a 2 m de altura, sus hojas tienen una forma oblonga con venación pinnada y márgenes ondulados. Florece de octubre a diciembre y sus pequeñas y blancas flores, con forma de guisante, están envueltas por un par de brácteas florales reniformes.",
+      "uso": "<nh> En Bangladés es utilizada en la medicina tradicional para tratar epilepsia, histeria y fiebre."
+    },
+    {
+      "id": 25,
+      "imagen": "assets/imag/produccion190p/flor_de_azucar.png",
+      "nombre": "<nh> Flor de azúcar",
+      "nom_cientifico": "<nh> Begonia semperflorens",
+      "familia": "<nh> Begoniaceae",
+      "genero": "<nh> Begonia",
+      "origen": "<nh> Introducida~ Brasil",
+      "descripcion": "<nh> Es una planta herbácea perenne pero que en climas templados o fríos se comporta como anual o de temporada. Puede alcanzar una altura de 20 a 40 centímetros. Las flores son pequeñas, de 1-2 cm, rojas, rosas o blancas, y aparecen durante buena parte del año. La floración se acelera con mayor intensidad de luz y temperaturas más cálidas. Esta es una especie que no resiste nada bien la sequía, pero que además teme mucho al encharcamiento.",
+      "uso": "<nh> Algunas especies de Begonias se utilizan en cocina para adornar y aromatizar platos, como la Begonia semperflorens."
+    },
+    {
+      "id": 26,
+      "imagen": "assets/imag/produccion190p/giganton.png",
+      "nombre": "<nh> Gigantón",
+      "nom_cientifico": "<nh> Tithonia diversifolia",
+      "familia": "<nh> Asteraceae",
+      "genero": "<nh> Tithonia",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> También llamado falso girasol, es una hierba perenne de 1- 4 m de alto, tallos sin pelos y glándulas, hojas superiores reducidas. Con floración amarilla, similar a los girasoles.",
+      "uso": "<nh> Ornamental para muchos jardines. Las flores en infusión, ayudan a contrarrestar fiebre y envenenamientos. Para curar granos, heridas y llagas. Quita comezón, disminuye moretones, calambres e hinchazón."
+    },
+    {
+      "id": 27,
+      "imagen": "assets/imag/produccion190p/granada.png",
+      "nombre": "<nh> Granada",
+      "nom_cientifico": "<nh> Punica granatum",
+      "familia": "<nh> Lythraceae",
+      "genero": "<nh> Punica",
+      "origen": "<nh> Asia",
+      "descripcion": "<nh> Arbusto de follaje abundante, con tronco de ramas torcidas y levemente espinosas, hojas verdes alargadas con superficie lisa y brillante, levemente onduladas. La flor es acampanada y está conformada por 5 a 8 pétalos color naranja brillante. El efecto antioxidante de la granada detiene el proceso de envejecimiento arterial y previene el infarto. ",
+      "uso": "<nh> El fruto se consume en fresco y se usa en la elaboración de postres. Decoración de platillos de identidad nacional Chiles en nogada. Se produce jugo envasado, mermeladas, confituras, helados y gel."
+    },
+    {
+      "id": 28,
+      "imagen": "assets/imag/produccion190p/guaje.png",
+      "nombre": "<nh> Guaje",
+      "nom_cientifico": "<nh> Leucaena leucocephala",
+      "familia": "<nh> Fabaceae",
+      "genero": "<nh> Leucaena",
+      "origen": "<nh> Nativo de México",
+      "descripcion": "<nh> Árbol de 6-20 m de altura, corteza gris o blanquecina, lisa, con lenticelas abundantes. Hojas alternas bipinnadas, dísticas con estípulas, ovadas, apiculadas color verde claro. Inflorescencia en capítulos globosos. Flores con cáliz tubular y pétalos fusionados marginalmente en la parte media. De fruto contiene una legumbre de coloración verde claro, semillas ovoides, pardo claro brillante.",
+      "uso": "<nh> Semillas como condimento al igual que los frutos. Las hojas tiernas se consumen como quelite. Como forraje y medicinal."
+    },
+    {
+      "id": 29,
+      "imagen": "assets/imag/produccion190p/guanabana.png",
+      "nombre": "<nh> Guanábana",
+      "nom_cientifico": "<nh> Annona muricata",
+      "familia": "<nh> Annonaceae",
+      "genero": "<nh> Annona",
+      "origen": "<nh> Mesoamérica",
+      "descripcion": "<nh> Florece de Octubre a Enero. Árbol o arbusto perennifolio/ caducifolio de 3 a 8 m (hasta 10 m) de altura. Fructifica de Diciembre a Abril.",
+      "uso": "<nh> Las hojas y las semillas tienen usos en medicina tradicional por su capacidad antitumoral, parasiticida y antidiarreica. Esta planta se ha empleado para rehabilitar sitios donde hubo explotación minera. Mejora la fertilidad del suelo. Despide mal olor cuando se le tritura. Flores solitarias a lo largo del tallo. La guanábana es la mayor de todas las anonas, pudiendo alcanzar hasta dos kilos de peso."
+    },
+    {
+      "id": 30,
+      "imagen": "assets/imag/produccion190p/guayaba_rosa.png",
+      "nombre": "<nh> Guayaba rosa",
+      "nom_cientifico": "<nh> Psidium guajava",
+      "familia": "<nh> Myrtaceae",
+      "genero": "<nh> Psidium",
+      "origen": "<nh> Introducida~ América tropical",
+      "descripcion": "<nh> Árbol o arbusto perennifolio o caducifolio, de 3 a 10 m (hasta 20 m) de altura. El guayabo florece desde la primavera hasta el otoño~ en invierno la planta entra en letargo por bajas temperaturas o falta de humedad. Su origen es incierto pero se le ubica en Mesoamérica. Se encuentra silvestre desde el sur de Tamaulipas, este de San Luis Potosí y el norte de Puebla hasta Veracruz y la Península de Yucatán~ y de Sonora hasta Chiapas",
+      "uso": "<nh> Se ha utilizado tradicionalmente como antidiarreico y para los cólicos intestinales."
+    },
+    {
+      "id": 31,
+      "imagen": "assets/imag/produccion190p/higuera.png",
+      "nombre": "<nh> Higuera",
+      "nom_cientifico": "<nh> Ficus carica",
+      "familia": "<nh> Moraceae",
+      "genero": "<nh> Ficus",
+      "origen": "<nh> Asia sudoccidental",
+      "descripcion": "<nh> Árbol caducifolio de 5-10 m de altura. Hojas simples, alternas ovales rugosopubescentes acorozanadas y palmadas. Tronco con numerosas ramas gruesas de madera poco densa, glabras, extendidas o ascendentes. Corteza externa lisa de color grisáceo,interna Interna con una gran cantidad de células laticíferas que producen un látex lechoso, áspero y gomoso, que al entrar en contacto con el aire se espesa. El fruto es un sícono blando obovoide o elipsoide, carnoso, recubierto con una piel muy fina, con pequeños y numerosos aquenios incluidos en el fruto, es de color azulado o verde, negro o morado, mide de 3 a 10 cm de largo y tiene sabor dulce, mucilaginoso.",
+      "uso": "<nh> Hojas tiernas como condimento y forraje. El fruto cocido para dolor de garganta, encías inflamadas, asma y empacho. El higo es el fruto con mayor contenido de azúcar en el mundo."
+    },
+    {
+      "id": 32,
+      "imagen": "assets/imag/produccion190p/hoja_de_rubi.png",
+      "nombre": "<nh> Hoja de rubí",
+      "nom_cientifico": "<nh> Alternanthera dentata",
+      "familia": "<nh> Amaranthaceae",
+      "genero": "<nh> Alternanthera",
+      "origen": "<nh> Brasil",
+      "descripcion": "<nh> Hierbas, subarbustos o arbustos. Hojas simples, opuestas o alternas, sin estípulas. Es atacado por plagas comunes, tales como mosca blanca, pulgón, minador, babosos y otras. Esta planta no requiere de mucha agua.                    Es susceptible de enfermedades fungosas, tales como la cenicilla, botritis y pudrición de raíz. A mayor luz, más intenso el color morado del follaje.",
+      "uso": "<nh> "
+    },
+    {
+      "id": 33,
+      "imagen": "assets/imag/produccion190p/hoja_pinta.png",
+      "nombre": "<nh> Hoja pinta",
+      "nom_cientifico": "<nh> Sanchezia parvibracteata",
+      "familia": "<nh> Acanthaceae",
+      "genero": "<nh> Sanchezia",
+      "origen": "<nh> Su origen en América es ignoto (No se conoce)",
+      "descripcion": "<nh> Es una planta ornamental y de cobertura popular que se cultiva ampliamente en las regiones tropicales y subtropicales del mundo. Esta especie crece formando densas coberturas en el sotobosque de los bosques húmedos, lluviosos, nativos y secundarios donde está compitiendo con las especies de plantas nativas.",
+      "uso": "<nh> Está catalogada como invasora en Australia."
+    },
+    {
+      "id": 34,
+      "imagen": "assets/imag/produccion190p/hoja_de_sangre.png",
+      "nombre": "<nh> Hojas de sangre",
+      "nom_cientifico": "<nh> Iresine herbstii",
+      "familia": "<nh> Amaranthaceae",
+      "genero": "<nh> Iresine",
+      "origen": "<nh> Brasil",
+      "descripcion": "<nh> Es una planta herbácea erecta de hasta 1.5 m. Se cultiva en regiones tropicales de todo el mundo. Presenta un follaje púrpura con nervaduras en carmín, pero existen variantes con diferente coloración, como el morfotipo “variegata” planta masculina de hojas verdes con manchas de tonalidad amarillo, dorado o blanco.",
+      "uso": "<nh> Son utilizadas a nivel ornamental como plantas de jardín debido a la coloración que presenta su follaje. Sirve de alimento al ganado. Protege los suelos contra la erosión. Algunas especies de Iresine se utilizan para tratamientos contra el cáncer y enfermedades del útero."
+    },
+    {
+      "id": 35,
+      "imagen": "assets/imag/produccion190p/huele_de_noche.png",
+      "nombre": "<nh> Huele de noche",
+      "nom_cientifico": "<nh> Cestrum octurnum",
+      "familia": "<nh> Solanaceae",
+      "genero": "<nh> Cestrum",
+      "origen": "<nh> Introducido",
+      "descripcion": "<nh> Árbol semiperennifolio que alcanza un tamaño de hasta 5 m de alto. Tallos jóvenes angulosos. Las flores son de color blanco verdosos, nacen en fascículos, semejantes a cabezuelas y miden de 2 a 3 centímetros de longitud. Fruto en baya, ovoide, 1 cm de diámetro, de color blanquecino en la madurez, café oscuro en seco. Semillas: planas-reniformes.",
+      "uso": "<nh> Se utiliza como ornamental en jardines por la fragancia de sus flores. Se utiliza en la industria farmacéutica por su contenidos en saponinas."
+    },
+    {
+      "id": 36,
+      "imagen": "assets/imag/produccion190p/jaboticabo.png",
+      "nombre": "<nh> Jaboticabo o Guapurú",
+      "nom_cientifico": "<nh> Myrciaria cauliflora o Plinia cauliflora",
+      "familia": "<nh> Myrtaceae",
+      "genero": "<nh> Myrciaria/Plinia",
+      "origen": "<nh> Brasil",
+      "descripcion": "<nh> Árbol de porte mediano que no pasa de 12 m de altura. Flores en racimos cortos que emergen del tronco, desde el suelo y en las ramas principales. Fruto en baya esférica de 2 cm de diámetro. El periodo de floración es de dos a tres días y el de flor a fruto maduro es de 27 a 30 días.",
+      "uso": "<nh> Es una fruta exótica. Consumida mayormente fresca, aunque cuenta con productos de uso común como jalea, mermelada y vino tinto."
+    },
+    {
+      "id": 37,
+      "imagen": "assets/imag/produccion190p/jengibre.png",
+      "nombre": "<nh> Jengibre",
+      "nom_cientifico": "<nh> Zingiber officinale",
+      "familia": "<nh> Zingiberaceae",
+      "genero": "<nh> Zingiber",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Fruto en capsula subglobosa parecido a una raíz. Semillas lustrosas negras y un arillo blanco lacerado. Hierba que alcanza los 2 m de alto. Hojas lineares y ápice agudo. Inflorescencia en racimo, que va del color amarillo al rojo.",
+      "uso": "<nh> Utilizado en cocina como condimento. Artritis, asma, estreñimiento, tos, resfriados. Diabetes e incluso se ha probado para prevenir el cáncer. La infusión de jengibre, reduce dolores menstruales, musculares y los niveles de azúcar en la sangre."
+    },
+    {
+      "id": 38,
+      "imagen": "assets/imag/produccion190p/jinicuil.png",
+      "nombre": "<nh> Jinicuil",
+      "nom_cientifico": "<nh> Inga jinicuil",
+      "familia": "<nh> Mimoceae",
+      "genero": "<nh> Inga",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Árbol perennifolio de 20 m de altura y hasta 40 cm de diámetro. Tronco recto, Copa redondeada y densa, compuesta de ramas delgadas y ascendentes. Se encuentra comúnmente en las orillas de los caminos, potreros y campos de cultivo abandonados. Corteza lisa de color pardo, con numerosas lencitelas. Hojas pares y dispuestas de color verde oscuro. Floración agrupada en pequeñas cabebezuelas de coloración blanca. Los frutos son vainas tardíamente dehiscentes, oblongas y aplanadas. Rectas o ligeramnete curvas. Llegan a medir entre 15-30 cm de largo por 5 a 6 cm de ancho. Con cáscara verde amarillenta, lisa y fibrosa. Cada fruto, contiene de 12 a 18 semillas.",
+      "uso": "<nh> "
+    },
+    {
+      "id": 39,
+      "imagen": "assets/imag/produccion190p/jonote.png",
+      "nombre": "<nh> Jonote",
+      "nom_cientifico": "<nh> Heliocarpus appendiculatus",
+      "familia": "<nh> Malvaceae",
+      "genero": "<nh> Heliocarpus",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> También conocido como majuage o colorado, es una planta perenne de 12 a 14 m de alto,  que se encuentra en bosques tropicales, potreros, cafetales y a lo largo de ríos. Ramas color café oscuro, con lenticelas, hojas alternas ovadas, algunas veces se presenta inflorescencia ubicadas en las puntas de las ramas. Florece desde diciembre hasta mediados de marzo y la fructificación hasta medidos de junio. ",
+      "uso": "<nh> Uso artesanal y medicinal. Utilizado como fibra para hacer papel amate."
+    },
+    {
+      "id": 40,
+      "imagen": "assets/imag/produccion190p/kalanchoe.png",
+      "nombre": "<nh> Kalanchoe",
+      "nom_cientifico": "<nh> Kalanchoe sp",
+      "familia": "<nh> Crassulaceae",
+      "genero": "<nh> Kalanchoe",
+      "origen": "<nh> Europa",
+      "descripcion": "<nh> El género incluye alrededor de 150 especies. Se caracterizan por ser hierbas o arbustos suculentos.",
+      "uso": "<nh> Son plantas ampliamente utilizadas en jardinería gracias a su fácil cultivo, a una notable adaptación bajo condiciones de restricción hídrica y a un crecimiento clonal vigoroso. Ya que es de fácil propagación algunas especies se consideran invasoras en algunas regiones de Argentina, Australia, China, España y Estados Unidos."
+    },
+    {
+      "id": 41,
+      "imagen": "assets/imag/produccion190p/lengua_de_suegra.png",
+      "nombre": "<nh> Lengua de suegra",
+      "nom_cientifico": "<nh> Dracaena trifasciata",
+      "familia": "<nh> Asparagaceae",
+      "genero": "<nh> Dracaena (Sansevieria)",
+      "origen": "<nh> Oeste de África tropical",
+      "descripcion": "<nh> Apreciada como ornamentales de follaje debido a la variegación, moteado y amplia variación en la forma de sus hojas, aplanadas.",
+      "uso": "<nh> Es la especie con mayor número de cultivares en el mercado de exportación de Costa Rica a Estados Unidos y Holanda. Tradicionalmente se conoce que tiene propiedades curativas para combatir el prurito. El extracto de sus hojas contiene entre otros compuestos químicos, taninos y según estudios realizados a éstos, poseen propiedades astringentes."
+    },
+    {
+      "id": 42,
+      "imagen": "assets/imag/produccion190p/limon_tavares.png",
+      "nombre": "<nh> Limón Tavares",
+      "nom_cientifico": "<nh> Citrus x aurantifolia",
+      "familia": "<nh> Rutaceae",
+      "genero": "<nh> Citrus",
+      "origen": "<nh> Asia",
+      "descripcion": "<nh> Árbol perenne con espinas, alrededor de 3-4 metros de altura. Copa abierta ramificada. Hojas alternas y simples. Flores llamadas azahares, solitarias o en pares, cortas inflorescencias. Semillas ovoides de coloración blanquecina amarillenta, surcadas.",
+      "uso": "<nh> Usado en remedios para resfriados, tos y temperaturas. Se utiliza como blanqueador. Se elaboran postres, bebidas, dulces y diversos platillos. El aceite esencial que se logra extraer, es usado principalmente en perfumería, así como en terapias. El limón Tavares, contiene propiedades antisépticas."
+    },
+    {
+      "id": 43,
+      "imagen": "assets/imag/produccion190p/lirio_amarillo.png",
+      "nombre": "<nh> Lirio amarillo",
+      "nom_cientifico": "<nh> Trimezia steyermarkii",
+      "familia": "<nh> Iridaceae",
+      "genero": "<nh> Trimezia",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Hierba con tubérculos, con bulbos como cebollas. Hojas simples que salen de ambos lados y son planas. Inflorescencia en racimos.",
+      "uso": "<nh> Ornamental por las flores tan llamativas que presenta."
+    },
+    {
+      "id": 44,
+      "imagen": "assets/imag/produccion190p/lirio_de_dia.png",
+      "nombre": "<nh> Lirio de día",
+      "nom_cientifico": "<nh> Hemerocallis fulva",
+      "familia": "<nh> Xanthorrhoeaceae",
+      "genero": "<nh> Hemerocallis",
+      "origen": "<nh> Asia",
+      "descripcion": "<nh> Flores vistosas en forma de copa, con seis pétalos en pico. Colores que van desde anaranjado a rojo y algunas tonalidades amarillas. Raíces engrosadas. Se conserva durante el invierno. Planta herbácea con hojas alargadas parecidas al pasto.",
+      "uso": "<nh> Principalmente ornamental. Flores comestibles y usadas, para decorar platillos"
+    },
+    {
+      "id": 45,
+      "imagen": "assets/imag/produccion190p/maguey_morado.png",
+      "nombre": "<nh> Maguey morado",
+      "nom_cientifico": "<nh> Tradescantia spathacea",
+      "familia": "<nh> Commelinaceae",
+      "genero": "<nh> Tradescantia",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Es una planta que se distribuye en el estado de Veracruz, Chiapas, Yucatán, Puebla, Tabasco y Quintana Roo. Se emplea en la cultura maya en forma de tés, infusiones, irrigaciones, cataplasmas, así como otras formas de tratamiento. Presenta el tallo corto del que salen numerosas hojas empalmadas. El has es de color verde y el envés de color violeta o morado purpura. Las flores son pequeñas, blancas.",
+      "uso": "<nh> Presenta actividades:\nAnticancerígenas\nAntivirales\nAntiinflamatorias\nAntimicrobianas\nBactericidas\nFungicidas"
+    },
+    {
+      "id": 46,
+      "imagen": "assets/imag/produccion190p/malanga.png",
+      "nombre": "<nh> Malanga",
+      "nom_cientifico": "<nh> Colocasia esculenta",
+      "familia": "<nh> Araceae Subfamilia: Aroideae",
+      "genero": "<nh> Colocasia",
+      "origen": "<nh> Asia",
+      "descripcion": "<nh> Alcanza una altura de 1-3 m, también conocida como Ocumo chino, Taro o Dashen. Sus tubérculos (cormos), hojas y peciolos son comestibles tanto para el hombre, así como también para los animales. Es considerada una de las especies de raíces y tubérculos con gran potencial alimenticio en las zonas tropicales. ",
+      "uso": "<nh> El almidón de la malanga, sirve como materia prima para la elaboración de diversos productos alimenticios. Ocupa el lugar decimocuarto entre los cultivos de hortalizas de primera necesidad."
+    },
+    {
+      "id": 47,
+      "imagen": "assets/imag/produccion190p/mandarina.png",
+      "nombre": "<nh> Mandarina",
+      "nom_cientifico": "<nh> Citrus reticulata",
+      "familia": "<nh> Rutáceae",
+      "genero": "<nh> Citrus",
+      "origen": "<nh> Introducida~ Sudeste de Asia",
+      "descripcion": "<nh> Árbol pequeño de 2-6 m de altura, con tronco con frecuencia torcido, generalmente sin espinas. Inflorescencias de color blanco, olorosas. Frutos globosos de 4-7 cm de longitud y 5-8 cm de diámetro.",
+      "uso": "<nh> Las mandarinas tienen una amplia adaptación a las condiciones climáticas sin en cambio en el cultivo de mandarina, la temperatura es el factor climático limitante que afecta el período comprendido entre la floración y la cosecha, la calidad del fruto y la adaptación de cada una de las variedades."
+    },
+    {
+      "id": 48,
+      "imagen": "assets/imag/produccion190p/mango.png",
+      "nombre": "<nh> Mango",
+      "nom_cientifico": "<nh> Mangifera indica",
+      "familia": "<nh> Anacardiaceae",
+      "genero": "<nh> Mangifera",
+      "origen": "<nh> Tailandia",
+      "descripcion": "<nh> Árbol que alcanza 40 m de altura. Hojas alternas simples, color verde oscuro. Inflorescencias en panículas. Floración blanca con centro de coloración verde o roja. El fruto es carnoso, contiene una sola semilla, envuelta en una capa leñosa dura. Normalmente es verde en un principio y amarillo, naranja e incluso rojo, cuando está maduro.",
+      "uso": "<nh> El fruto es comestible de forma natural o en refresco, jugos, helados, mermelada y confituras."
+    },
+    {
+      "id": 49,
+      "imagen": "assets/imag/produccion190p/maracuya.png",
+      "nombre": "<nh> Maracuyá",
+      "nom_cientifico": "<nh> Passiflora edulis",
+      "familia": "<nh> Passifloraceae",
+      "genero": "<nh> Passiflora",
+      "origen": "<nh> Brasil",
+      "descripcion": "<nh> Planta trepadora que alcanza los 9 m de longitud. Tallo rígido y leñoso. Hojas simples alternas comúnmente trilobuladas, de color verde profundo. Flores hermafroditas y solitarias, son muy llamativas, combinando la coloración purpura, blanca y verde. Fruto: Baya de forma globosa de color amarillo, de consistencia dura, lisa y cerosa. Semilla color negro o violeta oscuro.",
+      "uso": "<nh> El fruto se consume en fresco. Para elaborar refrescos, cremas alimenticias y dulces cristalizados El fruto se emplea para hacer licores y mermelada."
+    },
+    {
+      "id": 50,
+      "imagen": "assets/imag/produccion190p/mata_caballo.png",
+      "nombre": "<nh> Mata caballo",
+      "nom_cientifico": "<nh> Trema micrantha",
+      "familia": "<nh> Cannabaceae",
+      "genero": "<nh> Trema",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Árbol perennifolio de 5-13 m de altura, presenta hojas estipuladas, simples, alternas. Tronco cilíndrico, recto, con cicatrices de las ramas ligeramente protuberantes, semiesféricas y dispuestas en espiral. Corteza de color gris a café-grisacea, relativamente lisa y con abundantes lenticelas. Las flores son actinomorfas y se producen en inflorescencias axilares. Drupas carnosas, elipsoides o esféricas, de 1.5 a 3 mm de diámetro, de color verde al principio y rojo a anaranjado brillantes en la madurez, glabras, con los sépalos persistentes, con un hueso que contiene una sola semilla.",
+      "uso": "<nh> Con la madera se elaboran sillas y molenderos. Leña y carbón para pólvora. Construcción rural (vigas). Hojas como remedio contra el sarampión."
+    },
+    {
+      "id": 51,
+      "imagen": "assets/imag/produccion190p/mora_silvestre.png",
+      "nombre": "<nh> Mora silvestre",
+      "nom_cientifico": "<nh> Rubus glaucus",
+      "familia": "<nh> Rosaceae",
+      "genero": "<nh> Rubus",
+      "origen": "<nh> Introducido",
+      "descripcion": "<nh> Arbusto perenne semi erecto. Tallos con espinas estilo anzuelo. Las flores se desarrollan en racimos terminales ya laterales. Cada flor contiene cinco pétalos de color blanco, violeta o rosado. Los pistilos se desarrollan en pequeñas drupas, de aquí se da nombre al mesocarpio, que es la parte carnosa y comestible. El fruto es un tipo agregado, formado por la unión de varios. Cada bolita que se puede distinguir en un fruto de mora, se llama drupa, contiene su semilla y se une a un eje común.",
+      "uso": "<nh> En la antigüedad ya era conocida por los hombres primitivos, ya que algunos fósiles encontrados demuestran que se utilizaba el fruto y hojas."
+    },
+    {
+      "id": 52,
+      "imagen": "assets/imag/produccion190p/nance.png",
+      "nombre": "<nh> Nance",
+      "nom_cientifico": "<nh> Byrsonima crassifolia",
+      "familia": "<nh> Malpighiaceae",
+      "genero": "<nh> Byrsonima",
+      "origen": "<nh> Mesoamérica",
+      "descripcion": "<nh> Árbol pequeño y torcido, caducifolio de 3 a 7 m de altura. Hojas alargadas, decusada, simples~ láminas de 5 a 15 cm de largo por 2 de ancho, elípticas con margen entero y de color verde oscuro. Floración en racimos o panículas de color amarillo-rojizo. Los frutos son drupas globosas amarillentas.",
+      "uso": "<nh> La cáscara del fruto se utiliza para extraer colorante y pigmentar tejidos de algodón. Los frutos se consumen crudos, pero también para preparar bebidas, licores, dulces, conservas y helados. Leña y carbón del tronco."
+    },
+    {
+      "id": 53,
+      "imagen": "assets/imag/produccion190p/nopal.png",
+      "nombre": "<nh> Nopal",
+      "nom_cientifico": "<nh> Opuntia ficus-indica",
+      "familia": "<nh> Cactaceae",
+      "genero": "<nh> Opuntia",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Planta arbustiva, carece de hojas nomofilas. Segmentos o cladodios, son tallos capaces de ramificarse, emitiendo flores y frutos. Poseen dos clases de espinas, unas largas y duras, otras cortas y finas. Flores en forma de corona, de diversos colores que van del amarillo al rojo.",
+      "uso": "<nh> Se elaboran diferentes platillos, dulces o salados. Los frutos son considerados astringentes, se utilizan como emolientes, colocados en forma de cataplasma sobre la zona afectada. Se fabrican cosméticos y pintura."
+    },
+    {
+      "id": 54,
+      "imagen": "assets/imag/produccion190p/nuez_de_macadamia.png",
+      "nombre": "<nh> Nuez de macadamia",
+      "nom_cientifico": "<nh> Macadamia integrifolia",
+      "familia": "<nh> Proteaceae",
+      "genero": "<nh> Macadamia",
+      "origen": "<nh> Australia",
+      "descripcion": "<nh> Árbol siempre verde que alcanza hasta 15 m de altura, copa de 6-12 m con ramas densas de follaje. Raíces fibrosas, se adaptan bien a suelos pobres, ya que aprovechan nutrientes superficiales del suelo. Las flores se desarrollan en forma de racimos colgantes en forma de tubo. Pueden ser de color blanco o rosa. Su fruto es esférico cubierto con una capa verde, que cubre otra aún más rígida, en su interior se encuentra la parte comestible, a la que se le conoce como nuez. ",
+      "uso": "<nh> Se emplea como saborizante o aderezo en ensaladas y pastas. Se consume como botana tostada, salada o ahumada. Para elaborar galletas, pasteles y helados."
+    },
+    {
+      "id": 55,
+      "imagen": "assets/imag/produccion190p/oreja_de_elefante.png",
+      "nombre": "<nh> Oreja de elefante",
+      "nom_cientifico": "<nh> Caladium coerulescens",
+      "familia": "<nh> Araceae",
+      "genero": "<nh> Caladium",
+      "origen": "<nh> Introducida~ Brasil",
+      "descripcion": "<nh> Planta silvestre herbácea de 40-90 cm de altura. Coloración verde con pequeños matices blancos y rosas, lo que hace que se llamativa.",
+      "uso": "<nh> No es una planta comestible, solamente de uso ornamental."
+    },
+    {
+      "id": 56,
+      "imagen": "assets/imag/produccion190p/orquidea_cola_de_pato.png",
+      "nombre": "<nh> Orquídea cola de pato",
+      "nom_cientifico": "<nh> Catasetum integerrium",
+      "familia": "<nh> Orchidaceae",
+      "genero": "<nh> Catasetum",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Planta epífita, presenta pseudobulbos que pueden ser muy grandes, hasta de 20 cm largo, carnosos y gruesos, con espinas en el ápice. Los brotes nuevos están envueltos en vainas que van desarrollando hojas hacia arriba, los brotes viejos defoliados. Las hojas son largas, delgadas y plegadas, tienen 3 nervios y son deciduas. Flores con sépalos oblongos, labelo que forma un saco rígido y carnoso, profundo, con el interior de color verde cubierto de manchitas púrpura. Las cápsulas que produce son de gran tamaño. Florece en época de lluvias, de abril a octubre.",
+      "uso": "<nh> "
+    },
+    {
+      "id": 57,
+      "imagen": "assets/imag/produccion190p/orquidea_pulpo.png",
+      "nombre": "<nh> Orquídea pulpo",
+      "nom_cientifico": "<nh> Prosthechea cochleata",
+      "familia": "<nh> Orchidaceae",
+      "genero": "<nh> Prosthechea",
+      "origen": "<nh> Guatemala",
+      "descripcion": "<nh> Planta epífita de gran tamaño, con largos pseudobulbos aplanados y de grandes hojas, su floración puede prolongarse más de medio año, con múltiples varas en las que no dejan de abrirse nuevas flores fragantes. Es fácil reconocerla por sus finos pétalos y sépalos amarillos-verdes suaves, cuelgan hacia abajo mientras el labelo grande, en forma de concha presenta intensos tonos morados y verdosos amarillentos con rayas.",
+      "uso": "<nh> "
+    },
+    {
+      "id": 58,
+      "imagen": "assets/imag/produccion190p/palo_santo.png",
+      "nombre": "<nh> Palo santo",
+      "nom_cientifico": "<nh> Bursera graveolens",
+      "familia": "<nh> Burceraceae",
+      "genero": "<nh> Bursera",
+      "origen": "<nh> Perú",
+      "descripcion": "<nh> Árbol de aproximadamente 15 metros de altura, con hojas compuestas. Copa redondeada y cerrada. Tronco de corteza lisa. Floración de coloración blanca o lila. Fruto carnoso y de color verde rojizo. El tronco presenta pequeñas glándulas secretoras de resina con aroma a incienso.",
+      "uso": "<nh> Principalmente la madera, para fabricar cajones para fruta y se usa como aromatizante relajante. Hojas como forraje y en infusión para aliviar: Gripe, resfriados y fortalece los bronquios. La resina aromática se utiliza para el reumatismo, dolores musculares y de articulaciones."
+    },
+    {
+      "id": 59,
+      "imagen": "assets/imag/produccion190p/papa_aerea.png",
+      "nombre": "<nh> Papa aérea",
+      "nom_cientifico": "<nh> Dioscorea bulbifera",
+      "familia": "<nh> Dioscoreaceae",
+      "genero": "<nh> Dioscorea",
+      "origen": "<nh> Introducida~ zonas tropicales de Asia y África",
+      "descripcion": "<nh> Enredadera perenne con hojas anchas y alternas. Forma bulbillos en las axilas de las hojas. Tallos entrelazados. Tubérculos comestibles, con sabor amargo, que se quita al cocinarse. ",
+      "uso": "<nh> Se cocinan como cualquier otro tubérculo. Utilizada como remedio popular para tratar la conjuntivitis y diarrea. Puede ser efectivo para curar llagas en la piel, usando solo la ralladura del tubérculo."
+    },
+    {
+      "id": 60,
+      "imagen": "assets/imag/produccion190p/papaya.png",
+      "nombre": "<nh> Papaya",
+      "nom_cientifico": "<nh> Carica papaya",
+      "familia": "<nh> Caricaceae",
+      "genero": "<nh> Carica",
+      "origen": "<nh> Mesoamérica",
+      "descripcion": "<nh> Planta arborescente perennifolia, de 2 a 8 m (hasta 10 m) de altura con un diámetro a la altura del pecho de 6 a 15 cm (hasta 30 cm), con un olor acre distintivo. El tronco es erguido, cilíndrico, hueco excepto en los nudos con las características cicatrices que dejan las hojas al caer. Fruto cultivado de 10 a 50 cm de largo. Cada fruto contiene de 200 a 400 semillas. Prospera en toda la tierra caliente en un clima tropical o subtropical. La humedad y el calor son condiciones esenciales para su buen desarrollo y fructificación.",
+      "uso": "<nh> En la actualidad es uno de los frutos de mayor consumo en el país, debido a sus poderes digestivos. "
+    },
+    {
+      "id": 61,
+      "imagen": "assets/imag/produccion190p/paraguitas.png",
+      "nombre": "<nh> Paragüitas",
+      "nom_cientifico": "<nh> Cyperus alternifolius",
+      "familia": "<nh> Cyperaceae",
+      "genero": "<nh> Cyperus",
+      "origen": "<nh>  Madagascar",
+      "descripcion": "<nh> Habita en riberas de ríos y humedales por debajo de los 100-300 msnm. Se ha naturalizado en muchas regiones tropicales y se cultiva ampliamente como planta ornamental. Cada tallo está coronado por una umbela de brácteas en forma de hojas de textura coriácea dispuestas en radio, como las varillas de un paraguas abierto. La inflorescencia es una espiguilla compuesta por un eje central. Cada espiguilla porta una pequeña flor de color verde pálido.",
+      "uso": "<nh> "
+    },
+    {
+      "id": 62,
+      "imagen": "assets/imag/produccion190p/peperomia.png",
+      "nombre": "<nh> Peperomia",
+      "nom_cientifico": "<nh> Peperomia obtusifolia",
+      "familia": "<nh> Piperaceae",
+      "genero": "<nh> Peperomia",
+      "origen": "<nh> Florida, México y el Caribe",
+      "descripcion": "<nh> Comúnmente se encuentran como plantas epífitas, terrestres o geófitos, mostrando características de suculencia en las hojas. Las especies de Peperomia se distinguen por su hábito herbáceo y su característica distintiva es la inflorescencia, en forma de espádice.",
+      "uso": "<nh> "
+    },
+    {
+      "id": 63,
+      "imagen": "assets/imag/produccion190p/peral.png",
+      "nombre": "<nh> Peral",
+      "nom_cientifico": "<nh> Pyrus communis",
+      "familia": "<nh> Rosaceae",
+      "genero": "<nh> Pyrus",
+      "origen": "<nh> Europa central",
+      "descripcion": "<nh> Árbol que alcanza aproximadamente 10-17 m de altura. Corteza pardo negruzca, con placas nudosas y oblongas. Hojas alternas y de forma ovalada. Flores agrupadas en corimbos, hermafroditas y de color blanco.",
+      "uso": "<nh> El fruto se consume fresco. Se elaboran mermelada y vinos. Se ocupa como ornamento. Las hojas secas, pueden ser empleados para compost y otros abonos orgánicos."
+    },
+    {
+      "id": 64,
+      "imagen": "assets/imag/produccion190p/persimo.png",
+      "nombre": "<nh> Pérsimo",
+      "nom_cientifico": "<nh> Diospirus kaki",
+      "familia": "<nh> Ebaneceae",
+      "genero": "<nh> Diospirus",
+      "origen": "<nh> China",
+      "descripcion": "<nh> Árbol caducifolio de hasta 12 m de altura. Floración monoica. El fruto es una baya, con cáliz persistente, puede ser astringente, piel semiadherente y de grosor medio. El fruto típicamente es anaranjado en la recolección y rojo intenso al madurar. El árbol es muy resistente al frío. La brotación del fruto se presenta a finales de la primavera, requiere veranos largos y cálidos, para que el fruto madure. Necesita luz solar, la sombra no le va bien.",
+      "uso": "<nh> El fruto se come fresco, en postre o ensaladas. En la industria alimenticia se aprovecha para la preparación de postres, bebidas, helados y dulces."
+    },
+    {
+      "id": 65,
+      "imagen": "assets/imag/produccion190p/pimienta_de_olor.png",
+      "nombre": "<nh> Pimienta de olor",
+      "nom_cientifico": "<nh> Pimienta dioica",
+      "familia": "<nh> Myrtaceae ",
+      "genero": "<nh> Pimienta ",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Árbol perennifolio. Hojas con aroma agradable. Clima cálido-húmedo. Florece de marzo a junio. Frutos de junio a octubre. Proporciona sombra. Contiene aceite esencial. Usado como  aromatizante, condimento, medicinal  e insecticida.",
+      "uso": "<nh> Los frutos son bayas negras, aplanadas con fuerte olor fragante, utilizados para preparar diversos platillos."
+    },
+    {
+      "id": 66,
+      "imagen": "assets/imag/produccion190p/pina.png",
+      "nombre": "<nh> Piña",
+      "nom_cientifico": "<nh> Ananas comosus",
+      "familia": "<nh> Bromeliaceae",
+      "genero": "<nh> Ananas",
+      "origen": "<nh> Introducida~ Sudamérica",
+      "descripcion": "<nh> La piña o Ananas comosus es un fruto perteneciente a la familia Bromeliaceae, es uno de los frutos tropicales y subtropicales que ha tenido mayor impacto, en todas las zonas tropicales dado que es uno de los cultivos que se adapta mejor a estas condiciones ambientales. Los principales productores: Tailandia, Filipinas, India, China y Nigeria. México ocupa el noveno lugar a nivel mundial. La piña es una infrutescencia carnosa, ya que es, un conjunto de varios frutos productos de una inflorescencia.",
+      "uso": "<nh> Esta fruta tiene un contenido de agua muy alto, por lo que su valor calórico es bajo."
+    },
+    {
+      "id": 67,
+      "imagen": "assets/imag/produccion190p/planta_de_oracion.png",
+      "nombre": "<nh> Planta de oración",
+      "nom_cientifico": "<nh> Ctenanthe amabilis",
+      "familia": "<nh> Marantaceae",
+      "genero": "<nh> Ctenanthe",
+      "origen": "<nh> Introducida~ Brasil",
+      "descripcion": "<nh> Tiene largas hojas ovaladas de color verde grisáceo con un impresionante patrón de espinas de pescado. El envés de la hojas maduras es de color magenta.",
+      "uso": "<nh> Es conocida y apreciada por su extraordinario follaje decorativo y a veces son llamadas plantas de oración debido a la forma en que las hojas se cierran hacia arriba en forma de oración en la oscuridad."
+    },
+    {
+      "id": 68,
+      "imagen": "assets/imag/produccion190p/sabila.png",
+      "nombre": "<nh> Sábila",
+      "nom_cientifico": "<nh> Aloe vera",
+      "familia": "<nh> Asphodelaceae",
+      "genero": "<nh> Aloe",
+      "origen": "<nh> Introducida~ África",
+      "descripcion": "<nh> Las hojas son gruesas y carnosas. La propagación se realiza mediante hijuelos y por semilla Botánica. Requiere de suelo, suelto y bien drenado, con buen aporte de materia orgánica. Su tamaño puede alcanzar desde unos cuantos centímetros hasta los 50 cm.",
+      "uso": "<nh> Las hojas poseen propiedades benefactoras en la piel, son antitóxicas y antimicrobianas. Así mismo la dosis elevada posee efectos adversos: nefritis, irritación de hemorroides y oxitócica."
+    },
+    {
+      "id": 69,
+      "imagen": "assets/imag/produccion190p/sauco.png",
+      "nombre": "<nh> Saúco",
+      "nom_cientifico": "<nh> Sambucus canadensis",
+      "familia": "<nh> Adoxaceae",
+      "genero": "<nh> Sambucus",
+      "origen": "<nh> Canadá",
+      "descripcion": "<nh> Árbol pequeño, que alcanza una altura de 10 m, crece en una gran variedad de hábitats. Tallos de color grisáceo con la corteza fisurada. Poros protuberantes, parecidos a pequeñas lentejas de función respiratoria. Hojas opuestas, compuestas y dividida en varios foliolos. Flores y frutos comestibles. Inflorescencia ramificada, produce alrededor de 200 flores fragantes, florece todo el año. Posee fruto esférico de 5 mm de diámetro, carnoso de color purpura o negro.",
+      "uso": "<nh> Fiebre, tos, bronquitis, asma, catarro y amigdalitis. Trastornos digestivos, dolor de estómago y del hígado. Como caspa, salpullido, caída de pelo, sarampión, sarna y quemaduras. Funcional como purgante. Para tratar hemorroides. Paliativo contra el alcoholismo."
+    },
+    {
+      "id": 70,
+      "imagen": "assets/imag/produccion190p/suculenta.png",
+      "nombre": "<nh> Suculenta",
+      "nom_cientifico": "<nh> Echeveria sp",
+      "familia": "<nh> Crassulaceae",
+      "genero": "<nh> Echeveria",
+      "origen": "<nh> Originario de América",
+      "descripcion": "<nh> El género Echeveria cuenta con cerca de 330 especies de las cuales el 85% de ellas se encuentran en México y la mayoría son endémicas. Presenta hojas suculentas, simples. Las hojas pueden llegar a tener de 1.5 cm de largo como Echeveria setosa variedad minor hasta 30 cm como Echeveria gigantea.",
+      "uso": "<nh> Fue nombrada en honor al ilustrador botánico mexicano Atanasio Echeverría y Godoy quien asistió en el siglo XVIII durante la Real Expedición Botánica a la Nueva España, cuyo objetivo era compilar un inventario de la flora y fauna de este territorio."
+    },
+    {
+      "id": 71,
+      "imagen": "assets/imag/produccion190p/tulipan.png",
+      "nombre": "<nh> Túlipan",
+      "nom_cientifico": "<nh> Malvaviscus arboreus",
+      "familia": "<nh> Malvaceae",
+      "genero": "<nh> Malvaviscus",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Arbusto silvestre que llega a medir 3 m de altura. Floración de coloración roja con estambres de un tono café, poseedores de polen.",
+      "uso": "<nh> Se extrae jugo al tallar las flores que sirve para frotar el cuerpo y hacer que brote más rápido el sarampión. El tallo, flor y hoja son funcionales en infusión, como antimicrobiano para úlceras “aftas” y caries dental."
+    },
+    {
+      "id": 72,
+      "imagen": "assets/imag/produccion190p/yuca.png",
+      "nombre": "<nh> Yuca",
+      "nom_cientifico": "<nh> Manihot esculenta",
+      "familia": "<nh> Euphorbiaceae",
+      "genero": "<nh> Manihot",
+      "origen": "<nh> Introducida~ América del sur",
+      "descripcion": "<nh> Arbusto leñoso perenne de 2 m de altura. Raíz cilíndrica y oblonga la cubre una cascara dura, leñosa, no comestible. La pulpa es blanca o amarillenta, firme con fibras rígidas. Hojas en punta con tres foliolos. Presenta inflorescencia blanca con matices rosas y pequeños puntos marrones.",
+      "uso": "<nh> Elaboración de diversos platillos. Se cristaliza con panela. Se elabora miel o azúcar. La yuca es rica en hidratos de carbono, azúcares  y otros nutrientes."
+    },
+    {
+      "id": 73,
+      "imagen": "assets/imag/produccion190p/zacate_formio.png",
+      "nombre": "<nh> Zacate formio",
+      "nom_cientifico": "<nh> Phormium tenax",
+      "familia": "<nh> Xanthorrhoeaceae",
+      "genero": "<nh> Phormium",
+      "origen": "<nh> Nueva Zelanda",
+      "descripcion": "<nh> Sus hojas son alargadas y terminan  en  una punta tipo espada. Sus hojas se disponen en abanico y son de color verde oscuro con márgenes. El cultivo de esta planta se puede realizar en casi todos los tipos de suelo, pero se adapta mejor en suelos profundos de humedad moderada.",
+      "uso": "<nh> La cosecha de las hojas se recomienda realizarla cada 4 años ya que en periodos menores tienden a reducir el tamaño de las hojas. En una edad de entre 5 y 7 años en la parte central del abanico brota un tallo que llega a los 4 m de longitud, en el que aparecen las flores de esta planta. "
+    },
+    {
+      "id": 74,
+      "imagen": "assets/imag/produccion190p/zapote_blanco.png",
+      "nombre": "<nh> Zapote blanco",
+      "nom_cientifico": "<nh> Casimiroa edulis",
+      "familia": "<nh> Rutacea",
+      "genero": "<nh> Casimiroa",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Árbol que alcanza los 10 m de altura. Hojas compuestas de 5 hojuelas en forma de mano abierta, color verde brillante. Flores fragantes de color amarillo verdoso o blanquecino. Fruto de 8-10 cm de ancho, de coloración amarilla, con pulpa blanca dulce. Su hábitad es el bosque de encino, bosque de niebla y de coníferas.",
+      "uso": "<nh> Se consume el fruto fresco. Se elaboran helados, licores o postres. Infusión de hojas como relajante."
+    },
+    {
+      "id": 75,
+      "imagen": "assets/imag/produccion190p/zapote_negro.png",
+      "nombre": "<nh> Zapote negro",
+      "nom_cientifico": "<nh> Diospyros digyna",
+      "familia": "<nh> Ebenaceae",
+      "genero": "<nh> Diospyros",
+      "origen": "<nh> Nativo",
+      "descripcion": "<nh> Árbol de crecimiento lento, hasta de 25 m de altura. Tronco, con corteza negra. Hojas perennes y alternas, de forma redondeada. Flores blancas solitarias. Fruto globoso, con cáscara verde, delgada, no muy lisa y brillante. El fruto es moderadamente agridulce, de olor y consistencia suave con semillas negras y lustrosas.",
+      "uso": "<nh> El fruto puede consumirse fresco, en mermelada o conservas. Utilizado para elaborar vinos y licores, además de helados y postres. Corteza y hojas trituradas, se usan como cataplasma para ampollas. Las hojas en infusión, para disminuir la comezón por picaduras."
+    }
+  ],
+  "etnobotanica": [
+    {
+      "id": 0,
+      "concepto": "<nh> Acalocote",
+      "significado": "<nh>  Es un árbol que es utilizado en poca medida para leña, ya que al ser incinerado desprende mucho humo, con las piñas que da se realizan artesanías, las hojas se ocupan para adornar en fiestas, el llamado “ocoxal” y la madera sirve para construcción de casas o pequeños corrales, son árboles que no se desarrollan de una manera adecuada en la región “no engruesan” mencionan los habitantes y es por eso que la madera se consigue de regiones con climas fríos, el comercio gira en torno a las alfajillas que se obtienen de la madera del árbol.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 1,
+      "concepto": "<nh> Ahuehuete",
+      "significado": "<nh>  No es una especie muy conocida y las pocas personas que lo conocen lo ocupan como árbol maderable, como planta de ornato, para leña y solo dos personas comentaron que las ramas secas se ocupan para “sahumar”. ",
+      "significado2": "<nh> Lo que comentaban los pobladores es que ese tipo de árbol no se encuentra en la zona porque el medio que lo rodea no le favorece y, si hay algunos que se llegan a vender, no crecen de manera correcta, por los requerimientos que necesita dicha especie. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 2,
+      "concepto": "<nh> Alcatraz",
+      "significado": "<nh>  Es una especie que se utiliza como planta de ornato, la utilizan para adornar altares. ",
+      "significado2": "<nh> Se vende en las plazas, y un pequeño grupo de personas comentan que han visto a la planta distribuida de manera silvestre. ",
+      "significado3": "<nh> Así mismo, comentan que algunas veces escucharon decir que a la flor del alcatraz la utilizan como remedio para el cáncer, pero que no saben cómo se tiene que consumir, de igual manera, hubo personas que mencionaban que a la flor la ocupan para realizar “limpias” y ahuyentar malas energías.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 3,
+      "concepto": "<nh> Anona",
+      "significado": "<nh>  Las personas de las comunidades en su mayoría consumen el fruto, han comentando que su sabor es muy dulce y en temporada se llega a vender en el mercado, aunque no en gran cantidad, pero si uno que otro comerciante la vende. ",
+      "significado2": "<nh> También es utilizada como planta medicinal, ya que las hojas en té y el fruto son consumidos para el dolor de estómago y actúan como purgante~ los habitantes mencionan que la especie antes se distribuía en la zona, pero debido al cambio que hay en el clima, el desarrollo de este se ve interrumpido debido a los requerimientos que la planta necesita para su buen desarrollo.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 4,
+      "concepto": "<nh> Arándano",
+      "significado": "<nh>  En las cuatro comunidades expresan conocer el arándano, sin embargo no han visto que se de en la región, principalmente los habitantes de San Andrés Tzicuilan y Xocoyolo consumen el fruto al que le atribuyen propiedades antioxidantes.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 5,
+      "concepto": "<nh> Begonia bambú",
+      "significado": "<nh>  Las cuatro comunidades conocen a la planta y mencionan que no tiene uso medicinal o comestible. ",
+      "significado2": "<nh> Describen que es una planta ornamental que se encuentra en el campo y se llega a vender mucho en la región especialmente a turistas. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 6,
+      "concepto": "<nh> Bigotillo",
+      "significado": "<nh>  Debido a que el bigotillo es una planta introducida de flores vistosas es utilizada como ornato, en las cuatro comunidades los habitantes describen no utilizarlo para fines medicinales o comestibles, pero muestran interés en conocerla mejor pues mencionan que sería bueno saber más sobre la planta.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 7,
+      "concepto": "<nh> Blanca mariposa",
+      "significado": "<nh>  Comunidades en las que conocen y describen su uso: San Miguel Tzinacapan y San Andrés Tzicuilan reconocen a la planta como azafrán y ayuizat, las personas mencionan que se da en los ríos y sus flores son muy fragantes. ",
+      "significado2": "<nh> Es principalmente de uso ornamental y debido a que se encasta la tienen que cortar y vender en los mercados locales donde la gente la busca con frecuencia para arreglar los altares, en cuanto a uso medicinal las hojas se hierven para baños en temazcal. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 8,
+      "concepto": "<nh> Buganvilia",
+      "significado": "<nh>  Es utilizada como planta de ornato, pero a su vez se utilizan las flores en la preparación de té (de 7-10 flores), para aliviar la tos o el dolor de garganta, algunas personas recomiendan beberlo junto con unas cucharaditas de miel y limón, haciendo énfasis en que después no se podrá salir al frío o tomar agua fría ya que de lo contrario se complicaran las molestias. ",
+      "significado2": "<nh> Es comercializada en la zona por sus llamativas flores y estructuras que presentan, en ocasiones si no se tiene la planta, se llegan a vender las flores y estas mismas son utilizadas de igual manera para adornar altares. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 9,
+      "concepto": "<nh> Cabeza de arriera",
+      "significado": "<nh>  Es utilizada para tratar problemas estomacales, la raíz se prepara en té para aliviar dolores de garganta, se utiliza en “remedio” para problemas de riñones. ",
+      "significado2": "<nh> Las hojas se utilizan para desparasitar animales domésticos y en ocasiones se les administraban a las aves de corral para terminar con enfermedades. ",
+      "significado3": "<nh> La especie se distribuya de manera silvestre en las comunidades, y comentan que no es fuente de comercio en la región. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 10,
+      "concepto": "<nh> Cactus catedral",
+      "significado": "<nh>  El cactus catedral es conocido por los diversos usos que se le dan al látex que contiene, ya que se le han atribuido beneficios para enfermedades crónicas y agudas. ",
+      "significado2": "<nh> Sin embargo en las cuatro comunidades expresan no conocer esta información pero si han observado que se vende mucho en los mercados para su uso como ornato. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 11,
+      "concepto": "<nh> Calathea lancifolia",
+      "significado": "<nh>  En la comunidad de San Andrés Tzicuilan conocen a la planta con el nombre cola de cocodrilo, los habitantes describen que se vende mucho para uso ornamental. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 12,
+      "concepto": "<nh> Canela",
+      "significado": "<nh>  Es una especie que se implementa como condimento por casi todos los habitantes, al igual que como recurso medicinal cuando se presenta un dolor de garganta. ",
+      "significado2": "<nh> La corteza se hierve en té para ingerirlo, cuando se tienen cólicos también se recurre al té de canela y en ocasiones cuando hay resfriado se hierve la canela junto con ajo y gordolobo y se unta en la espalda, o bien se recurre a beber el té~ es un condimento muy comercializado en la región además de que los árboles crecen en algunas comunidades, para adquirir un árbol se necesita comprarlo en las plazas que es donde se comercializan. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 13,
+      "concepto": "<nh> Caña de azúcar",
+      "significado": "<nh>  Es utilizada en los meses de octubre-noviembre, se comercializa en la región y se dice que en años anteriores la especie se producía en las comunidades y se elaboraba la panela, había pequeños lugares en donde se elaboraba pero con el paso del tiempo estas prácticas se fueron perdiendo al igual que la planta en los cultivos, ahora ya no es una especie que se produzca ni de la cual se obtengan ganancias, porque las pocas plantas que se encuentran son muy duras para consumir. ",
+      "significado2": "<nh> También se elabora el aguardiente, la cascara de la caña hervida sirve para el mal de orín y su raíz hervida sirve para detener hemorragias. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 14,
+      "concepto": "<nh> Carambolo",
+      "significado": "<nh>  El carambolo no es tan conocido en las comunidades, los habitantes afirman que nunca han visto un árbol en el rancho, saben que se comercializa en la plaza cuando es temporada pero que es una fruta exótica, con sabor parecido al del maracuyá y cuando la llegan a comprar preparan agua fresca que si se toma en exceso puede provocar daño en los riñones.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 15,
+      "concepto": "<nh> Cepillo rojo",
+      "significado": "<nh>  Es conocido por algunos habitantes como “escobillón”, al cual el único uso es como planta de ornato, se comenta que se comercializa muy poco y que las personas que lo llegan a conseguir llegan a ocupar las flores para adornar sus altares, un dato curioso de esta especie es que las hojas presentan un ligero aroma a limón de ahí el nombre citrinus. ",
+      "significado2": "<nh> El conocimiento sobre esta especie en las comunidades no es muy amplio siendo menos de la mitad de las personas entrevistadas las que conocen de la existencia de esta planta.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 16,
+      "concepto": "<nh> Chaya",
+      "significado": "<nh>  Son pocas las personas de las cuatro comunidades que ubican a la Chaya cabe destacar que en Santiago Yancuitlalpan usan las hojas para dar baños a las mujeres después del parto, en infusión para aliviar el dolor de estomago y para bajar la presión se hierven dos hojas tiernas y se toma solo una vez, caliente o como agua de tiempo. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 17,
+      "concepto": "<nh> Chirimoya",
+      "significado": "<nh>  Sus frutos se comercializan en los mercados de las comunidades, los frutos se consumen, las hojas se preparan hervidas para lavar heridas y evitar infecciones, al hervirse el olor que desprende es fuerte según las experiencias de los habitantes, también se pueden preparar con aguardiente y hojas de sauco para el dolor muscular aplicándose de manera superficial en la zona afectada.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 18,
+      "concepto": "<nh> Coleo",
+      "significado": "<nh>  En San Andrés Tzicuilan conocen a la planta con el nombre de Tepaxtic, los habitantes describen que se encuentra silvestre y que es principalmente de uso ornamental. ",
+      "significado2": "<nh> Mientras que en la localidad de Xocoyolo expresan que las hojas son buenas para el dolor provocado por las reumas, se chapotea con agua caliente la parte afectada, también mencionan que se come pero entre los entrevistados nunca la han probado.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 19,
+      "concepto": "<nh> Costilla de Adán",
+      "significado": "<nh>  Las cuatro comunidades conocen a la planta y mencionan que no tiene ningún uso medicinal o comestible, en San Miguel Tzinacapan y San Andrés Tzicuilan describen que es una planta silvestre que da un fruto parecido a la guanábana y la utilizan de ornato, las personas expresan que se vende mucho a turistas. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 20,
+      "concepto": "<nh> Crotón mammi",
+      "significado": "<nh>  El crotón mammi no fue identificado por los habitantes de las cuatro comunidades para usos comestibles o medicinales, sin embargo expresan que es una planta que han visto en los terrenos para marcar linderos, y también de uso ornamental en jardines y centros turísticos.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 21,
+      "concepto": "<nh> Cúrcuma ",
+      "significado": "<nh>  Comunidades en las que conocen y describen su uso: San Andrés Tzicuilan y Xocoyolo. ",
+      "significado2": "<nh> Reconocen a la cúrcuma como huele de noche, mismos que usan la hoja para preparar tamales y baños en temazcal a personas que sufren “frialdad” en el cuerpo. ",
+      "significado3": "<nh> La raíz se prepara en infusión se hierve y se toma cada tercer día, caliente o como agua de tiempo para regular los triglicéridos, la presión y diabetes. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 22,
+      "concepto": "<nh> Damasquina",
+      "significado": "<nh>  En las cuatro comunidades reconocen a la planta como cempasúchil, la flor se da mucho en la región sobre todo en temporada de todosantos para adornar los altares. ",
+      "significado2": "<nh> De las plantas que adornan se va guardando semilla para regarla y tener cada año. ",
+      "significado3": "<nh> Las personas describen que usan las hojas en té para aliviar el dolor de estomago, fiebre, cólicos el sarpullido y la bilis, expresan que tiene un sabor amargo. ",
+      "significado4": "<nh> También se prepara una infusión con nejayote para el hongo de los pies, la flor se machaca y se pone directamente sobre granos y heridas de 3 a 4 veces, y en baños es buena para mujeres después del parto. ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 23,
+      "concepto": "<nh> Durazno",
+      "significado": "<nh>  En las cuatro comunidades conocen a la planta y describen que se usa principalmente el fruto maduro para consumo, elaboración de vinos y conservas. ",
+      "significado2": "<nh> Las hojas hervidas para baños cuando el cuerpo este “venteado” a mujeres después del parto, y a los bebés cuando les sale salpullido en el cuerpo, incluso para lavar heridas las personas mencionan que es muy fresco. ",
+      "significado3": "<nh> En infusión para aliviar dolor de estómago y la fiebre combinando cascara de tomate y ceniza, también las personas expresan que - se prepara un té con las hojas y las de guayaba para hacer buchadas cuando los dientes están destemplados, con eso se “amarran”-. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 24,
+      "concepto": "<nh> Estreptocarpo",
+      "significado": "<nh>  De las cuatro comunidades solo en tres reconocen a la planta, especialmente en San Andrés Tzicuilan donde le llaman planta cabra, los habitantes describen que utilizan la planta como ornato y, en cuanto a medicina tradicional, las hojas tiernas se consumen y funcionan como desparasitante. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 25,
+      "concepto": "<nh> Flemingia",
+      "significado": "<nh>  En San Miguel Tzinacapan y San Andrés Tzicuilan le dan el nombre de frijolillo, los habitantes de ambas comunidades indicaron que usan la flemingia para crear barreras en los terrenos, también como árbol de sombra en las parcelas de café que a su vez, las hojas que caen sirven de abono. ",
+      "significado2": "<nh> Y en té para aliviar el dolor de estomago, diarrea y frialdad. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 26,
+      "concepto": "<nh> Flor de azúcar",
+      "significado": "<nh>  En San Miguel Tzinacapan reconocen a la planta con el nombre xiposochilt mientras que en Xocoyolo la conocen por el de xocoyule. ",
+      "significado2": "<nh> Los habitantes de las cuatro comunidades indicaron que utilizan la flor de azúcar como ornamento y, en medicina tradicional, para hacer enjuagues bucales, se hierven las hojas y se hacen buchadas 2 o 3 veces, también las personas describieron que las hojas tiernas se mascan para “amarrar “ los dientes. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 27,
+      "concepto": "<nh> Flor de cera  ",
+      "significado": "<nh>  Es una especie que se encuentra de manera silvestre en el bosque, la madera de este árbol se ocupaba años atrás para construcción, los racimos de flores sirven para adornar los altares y no se comercializan en la zona~ cabe mencionar que, en algunas comunidades, hace algún tiempo las flores se ocupaban para elaborar collares o pulseras cuando había algún evento festivo. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 28,
+      "concepto": "<nh> Gigantón",
+      "significado": "<nh>  Las cuatro comunidades conocen a la planta y mencionan que no tiene ningún uso medicinal o comestible, en San Miguel Tzinacapan y Xocoyolo utilizan la flor para arreglar altares,  también como cerco vivo en parcelas y de ornato en sus patios. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 29,
+      "concepto": "<nh> Granada",
+      "significado": "<nh>  La granada no es conocida por todos los habitantes, debido a que no se da en la región, pero en San Andrés Tzicuilan y Xocoyolo han visto que se comercializa mucho sobre todo en temporada, consumen el fruto fresco, cocinan chiles en nogada y la usan para decorar, también preparan paletas, agua y vino tradicional. ",
+      "significado2": "<nh> En cuanto a medicina describen que se come el fruto para aliviar herpes que sale en la boca, evitando la comezón y secando por completo. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 30,
+      "concepto": "<nh> Guaje",
+      "significado": "<nh>  También se llega a conocer como “huashi” o “liliaqui”, es utilizado en su mayoría como alimento, se comen las semillas que contiene la vaina, los habitantes aseguran que su sabor es muy fuerte, por lo que se utiliza como desparasitante y se comenta que las vainas junto con ajo y cebolla contrarrestan la tuberculosis, puede llegar a crecer de manera silvestre en el monte o se encuentra como fuente se consumó en casas y se comercializa de manera importante en las comunidades del  municipio. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 31,
+      "concepto": "<nh> Guanábana",
+      "significado": "<nh>  El fruto es comercializado en los mercados de las diferentes comunidades, el valor de la fruta puede llegar a ser algo elevado debido a la demanda que tiene, se llega a producir en la zona y los árboles se consiguen en viveros, además la fruta se utiliza para la elaboración de vinos. ",
+      "significado2": "<nh> Las hojas de la guanábana en té sirven para regular los problemas de la diabetes, así como también, se menciona que el té de las hojas de esta planta funciona como anticancerígeno. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 32,
+      "concepto": "<nh> Guayaba",
+      "significado": "<nh>  En las cuatro comunidades describen que consumen el fruto en agua fresca, las hojas en té para bajar la fiebre, como desparasitante y para aliviar el dolor de estómago, colitis y diarrea. ",
+      "significado2": "<nh> En infusión para el sarpullido y la disentería, se hierven las hojas, flor y fruto en un litro de agua y se toma caliente por 3 o 4 días, las personas expresan que tiene sabor agarroso. ",
+      "significado3": "<nh> También la corteza o el palito se hierve para hacer buchadas cuando los dientes se sienten sensibles. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 33,
+      "concepto": "<nh> Hierba mora  ",
+      "significado": "<nh>  Es una especie silvestre, encontrada principalmente en los cultivos de maíz, esta planta se utiliza como alimento, los habitantes mencionan que es una fuente muy buena de hierro, las hojas tiernas “quelites” se preparan en diferentes comidas, el sabor de estas hojas puede ser amargo en tiempos de calor o dulce en épocas frías, las hojas también se hierben para realizar baños en niños con “alferecía”~ estas también se utilizan cuando hay fiebre, se cortan finamente y se mezclan con aguardiente para ser aplicadas en el estómago y en las plantas de los pies. ",
+      "significado2": "<nh> Se llega a preparar agua con las hojas hervidas y licuadas para refrescarse en temporada de calor y se dice que las semillas tienen propiedades anticancerígenas. ",
+      "significado3": "<nh> Se comercializa en la región. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 34,
+      "concepto": "<nh> Higuera",
+      "significado": "<nh>  Los frutos se consumen de manera escasa por las personas, ya que es un fruto que casi no se comercializa, han comentado que solo se llega a vender en dulce, las personas que lo consumen de manera natural lo hacen debido a que saben que ayuda a limpiar el colón y a mantener una buena digestión por la fibra que contiene, por otro lado, las hojas del higo en té sirven para aliviar la fiebre y para regular la presión. ",
+      "significado2": "<nh> El látex que proviene de las hojas sirve para eliminar verrugas y mezquinos, el árbol de higo no se encuentra de manera regular en las comunidades ya que el clima no le favorece. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 35,
+      "concepto": "<nh> Hoja de rubí",
+      "significado": "<nh>  Debido a que la hoja de rubí es introducida, en las comunidades describen que el único uso que le han dado es como planta de ornato en jardines y traspatios. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 36,
+      "concepto": "<nh> Hoja pinta",
+      "significado": "<nh>  También conocida con el nombre de cepillo y archanclan, en las cuatro comunidades describen que es una planta silvestre de uso ornamental, en medicina tradicional los  habitantes de Santiago Yancuitlalpan expresan que utilizan las hojas en baños para mujeres después del parto. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 37,
+      "concepto": "<nh> Hoja santa",
+      "significado": "<nh>  Se conoce en las comunidades como “omequelite”, se utiliza como alimento para preparar diferentes platillos ya que presenta un olor característico, las hojas se preparan en té para los cólicos, y para curar el “asco”, también se pueden hervir para que las mujeres que recientemente tuvieron un parto se bañen, o bien para bañarse cuando se tiene la piel irritada como salpullido. ",
+      "significado2": "<nh> Las hojas anteriormente se utilizaban para tallar la ropa a la hora de lavar~ estas mismas, junto con manteca o con huevo, se utilizan para disminuir la fiebre y se aplican dando masajes en el estómago o en las plantas de los pies, se utiliza también para detener hemorragias. ",
+      "significado3": "<nh> Por testimonios de algunos habitantes es implementada junto con más hierbas calientes para combatir el COVID-19. ",
+      "significado4": "<nh> Es una especie que crece de manera silvestre en cualquier lugar de la zona y no es comercializada debido a que se encuentra de manera silvestre. ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 38,
+      "concepto": "<nh> Hojas de sangre ",
+      "significado": "<nh>  En las cuatro comunidades conocen a la planta y describen que se encuentra en los caminos, principalmente ornamental. ",
+      "significado2": "<nh> Los habitantes mencionan que se utiliza en baños para quitar los granos rojos en té para irregularidad en la menstruación se hierven las hojas y se toma una vez al día caliente, también machacando las hojas y tomándose el jugo detiene el sangrado de la nariz y baja la temperatura. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 39,
+      "concepto": "<nh> Hormiguillo",
+      "significado": "<nh>  Es una especie que se encuentra de manera silvestre en el bosque de las comunidades, ellos lo llegan a conocer como “chiquiscohuit”, anteriormente se utilizaba la madera para realizar construcciones, las hojas tiernas o el fruto se utilizan para preparar té ya que se comenta que sirve para controlar los síntomas de la diabetes y que éste no presenta ningún sabor. ",
+      "significado2": "<nh> Otros habitantes dicen que las hojas son utilizadas para elaborar nidos de aves de corral y que se llegaron a consumir algunas orugas que se encontraban en la madera del árbol. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 40,
+      "concepto": "<nh> Huele de noche ",
+      "significado": "<nh>  Se ocupa como ornato y para adornar los altares, aunque la flor no dura mucho el aroma que desprende es relajante. ",
+      "significado2": "<nh> Lo llegan a conocer como huitacouit, algunas personas emplean las hojas o flores tiernas para lavar ropa blanca, los frutos verdes de la planta son revueltos con las semillas del maíz para que este no se “apolille”, también se realizan mezclas de las hojas con otras plantas y aguardiente para curar el “susto” o simplemente se hierven las hojas, con estas mismas se realizan “pelotillas”, comentan también que las ramas verdes se colocan debajo de las sabanas donde se duerme para controlar el sudor, se pueden realizar limpias para alejar el “mal aire” y se llega a utilizar como forraje para aves de corral. ",
+      "significado3": "<nh> Crece de manera silvestre y llega a ocuparse para marcar límites de casas, no presenta comercio en la región. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 41,
+      "concepto": "<nh> Jaboticabo",
+      "significado": "<nh>  Esta especie no es conocida por los habitantes de las comunidades entrevistadas y por lo tanto no cuenta con ningún uso en la zona. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 42,
+      "concepto": "<nh> Jengibre",
+      "significado": "<nh>  Aún cuando el jengibre no se da mucho en la región es utilizado en las comunidades con  aguardiente para calmar el dolor causado por la artritis, la flor que es como un elotito o maraca se pone sobre las brazas y el jugo que suelta sirve para quitar el dolor de los pies. ",
+      "significado2": "<nh> Mencionan que un trozo en té es bueno para los nervios, tos y para prevenir la gripa, baja la presión, los triglicéridos y también se hacen pomadas para dolores musculares las personas expresan que - pica mucho pero si se le quita el pellejito ya no tanto-. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 43,
+      "concepto": "<nh> Jinicuil",
+      "significado": "<nh>  Es conocido comúnmente por los habitantes como chalahuite, xonecuitl o huarache, este árbol produce unas vainas que a su vez tienen unos pequeños frutos algodonosos, estos frutos son consumidos por algunas personas dentro de las comunidades, ellos comentan que aunque todavía algunos árboles crecen de manera silvestre para conseguir un ejemplar se debe de comprar, puesto que la distribución de estas especies ha ido disminuyendo en comparación con años anteriores, se llega a comercializar en los mercados en algunas ocasiones y se comenta por habitantes de edades avanzadas que la “almendra” la semilla del fruto también se consume tostada en fresco. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 44,
+      "concepto": "<nh> Jonote",
+      "significado": "<nh>  También conocido con el nombre de Xonot, en las cuatro comunidades las personas indicaron que usan principalmente la corteza de la que salen unos hilitos para la elaboración de artesanías (huacales, servilleteros, mecapales, canastas y maceteros), por mencionar algunas, mismas que se comercializan en mercados y centros turísticos de la región. ",
+      "significado2": "<nh> Tiene uso maderable, para cercar parcelas y como combustible. ",
+      "significado3": "<nh> En cuanto a importancia medicinal, las amas de casa, mencionaron usar la sabia para detener el sangrado aplicando directamente sobre la herida, incluso las hojas y corteza para baños en temazcal. ",
+      "significado4": "<nh> Las personas mencionan que -seria importante plantarlo, porque ya no lo hay como antes.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 45,
+      "concepto": "<nh> Kalanchoe",
+      "significado": "<nh>  En San Andrés Tzicuilan es conocida por el nombre de siempreviva o como orejas de burro, los habitantes de la comunidad indicaron que es muy parecida a la sábila y por ser fresca la usan principalmente para bajar la temperatura. ",
+      "significado2": "<nh> En té se hierven las hojas se le pone cáscara de limón y se toma 1 o 2 veces, caliente o como agua de tiempo, en aguardiente como tintura, y también las hojas se ponen directamente en los pies durante toda la noche como si fuera un “huarache” y se envuelve con una calceta de modo que no se zafe. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 46,
+      "concepto": "<nh> Lengua de ciervo",
+      "significado": "<nh>  Esta especie no es muy conocida, pero algunas personas lo utilizan como planta de ornato y han llegado a saber que se utiliza como alternativa medicinal para contrarrestar el dolor de estómago, pero no conocen que parte es la que se utiliza ni como se prepara. ",
+      "significado2": "<nh> Es poco comercializado en la zona y se encuentra de manera silvestre en el bosque, anclada al tronco de los árboles. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 47,
+      "concepto": "<nh> Lengua de suegra  ",
+      "significado": "<nh>  No es muy conocida por los habitantes de las comunidades, las pocas personas que conocen de ella la utilizan como planta de ornato, comentan que se ha llegado a vender en las plazas, sin embargo, pocos habitantes saben que mantener una planta dentro de la casa ayuda a la oxigenación dentro de la misma, le han llegado a llamar “machete” y en algunos casos tienen la creencia que con base a la morfología que presenta puede llegar a ser venenosa.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 48,
+      "concepto": "<nh> Limón Tavares ",
+      "significado": "<nh>  El fruto es utilizado para preparar agua fresca y para baños cuando se tiene calor en la cabeza y estómago, las hojas con canela y espinosilla se preparan en té para aliviar la tos, se le pone una cucharadita de miel. ",
+      "significado2": "<nh> También las hojas son usadas para preparar yolixpa, en infusión para las agruras y la bilis se toma cada tercer día como agua de tiempo. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 49,
+      "concepto": "<nh> Lirio amarillo",
+      "significado": "<nh>  La personas conocen al lirio amarillo como flor de orquídea, la cual ocupan como planta de ornato en sus patios y algunas veces en altares. ",
+      "significado2": "<nh> Mencionan que se encuentra entre los cafetales, se vende los domingos en la plaza de Cuetzalan y que en algunos lados la regalan porque hay mucha.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 50,
+      "concepto": "<nh> Lirio de día",
+      "significado": "<nh>  Debido a que el lirio de día es una planta introducida, en las comunidades describen que lo han utilizado como ornato en altares y algunos habitantes expresan que -antes se veía más, ya se esta perdiendo.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 51,
+      "concepto": "<nh> Maguey morado",
+      "significado": "<nh>  A pesar de ser una planta nativa, en las cuatro comunidades desconocen usos medicinales y comestibles, sin embargo describen que lo utilizan como plantade ornato en jardines y traspatios. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 52,
+      "concepto": "<nh> Malanga",
+      "significado": "<nh>  Es una especie de planta que es implementada como ornato en algunas propiedades, se puede llegar a conocer como “quequexquilit”, crece de manera silvestre en ocasiones cerca de ríos o afluentes, se sabe que el camote que produce es comestible e incluso con un sabor mejor que el de la papa, se comenta también, que el líquido que emerge al cortar el tallo sirve como anestesia después de la picadura de avispa, cabe mencionar que la especie no es comercializada en la zona y algunas personas comentaron que puede llegar a ser venenosa. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 53,
+      "concepto": "<nh> Mandarina",
+      "significado": "<nh>  En las cuatro comunidades los habitantes describen que consumen el fruto en agua fresca, con las hojas se prepara yolixpa que es una bebida tradicional de la región, en té para aliviar gripa y tos, se hierven las hojas y se toma caliente o como agua de tiempo los días que se requiera, también es bueno para el dolor de estómago y funciona como relajante. ",
+      "significado2": "<nh> Las personas indicaron que los azahares (flores) junto con otras hierbas se usan en baños para recién nacidos. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 54,
+      "concepto": "<nh> Mango",
+      "significado": "<nh>  En las comunidades mencionan que no se da mucho en la región, pero lo compran y si se llega a dar consumen el fruto como postre o en agua para la comida, los pocos usos medicinales que le dan se le atribuyen a San Andrés Tzicuilan donde describen que se hierven 5 hojas de mango en un litro de agua para bajar la presión y controlar la diabetes. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 55,
+      "concepto": "<nh> Maracuyá",
+      "significado": "<nh>  Es un fruto muy consumido en las comunidades entrevistadas, los habitantes describen que se siembran en las parcelas o cerca de las casas y que el clima le favorece mucho, asimismo comentan que la fruta es muy comercializada en la región, el fruto lo consumen en “agua de tiempo” y con el preparan vinos y licores, el llamado “yolixpa” y las hojas hervidas en té en ocasiones junto con el chayote sirven para disminuir la presión en diabéticos. ",
+      "significado2": "<nh> Se dice que el sabor puede a llegar a ser amargo o mantenerse insípido, así también, esta planta se llega a conocer como “apasionaria” por algunas personas. ",
+      "significado3": "<nh> La planta de maracuyá también es comercializada en mercados de las mismas comunidades.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 56,
+      "concepto": "<nh> Mata caballo  ",
+      "significado": "<nh>  Recibe ese nombre debido a que en él se encuentran los insectos palo (fásmidos) y al ser consumido por los animales de carga se dice que se quedan atrapados en el tracto respiratorio ocasionando la muerte del animal. ",
+      "significado2": "<nh> Es empleado por los habitantes en su mayoría para leña, ellos describen que nace de manera silvestre y que en años anteriores la distribución de estos ejemplares era alta a comparación de hoy en día, ya que, cada vez más se dan cuenta que la cantidad de los árboles van disminuyendo. ",
+      "significado3": "<nh> Algunas personas ocupan el té de las hojas para problemas estomacales como “empacho” y algunas mujeres lo utilizan dicen los habitantes “para no tener familia”, mencionan también que antes era utilizado para la construcción de casas pero que después fue reemplazado por el bambú y se puede llegar a conocer como cuerillo, en la actualidad el árbol no tiene valor, pero antes la madera sí se llegaba a comercializar. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 57,
+      "concepto": "<nh> Mora silvestre ",
+      "significado": "<nh>  Los usos son en su mayoría alimenticios ya sea en vinos, en licuados y como mermelada~ algunas otras personas la utilizan como alternativa medicinal, por ejemplo, se consumen las hojas molidas con azúcar y coladas para la disentería en ayunas por 2 o 3 días, también se utiliza en baños hirviendo las hojas junto con las de la planta llamada mala mujer para disminuir el dolor de huesos. ",
+      "significado2": "<nh> La especie se distribuye en las comunidades de manera silvestre y tiene un gran comercio en la región. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 58,
+      "concepto": "<nh> Mozote",
+      "significado": "<nh>  Es una especie que se encuentra de manera silvestre en casi cualquier lado, en gran cantidad de encuentra en los sembradíos de maíz, esta especie no se llega a comercializar. ",
+      "significado2": "<nh> Las personas utilizan el mozote en té para curar el “empacho”, para regular la presión~ el “jugo” de las hojas maceradas lo utilizan para detener hemorragias en heridas realizadas en el campo, se utiliza también para preparar baños junto con otras hierbas calientes y así curar del “susto”, o bien se elaboran “pelotillas”, se puede dar como alimento a las aves de corral y debido a la rápida propagación se considera maleza. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 59,
+      "concepto": "<nh> Nacasburro",
+      "significado": "<nh>  Conocida como nacasburro (orejas de burro) es utilizada como condimento para diversas preparaciones, se dice que el sabor de esta especie es muy fuerte parecido un poco al cilantro, también que se comercializa en los mercados de las comunidades y se encuentra de manera silvestre en el bosque, sobre piedras o anclado al tronco de los árboles. ",
+      "significado2": "<nh> Más de la mitad de las personas conocen el uso de esta planta y sin duda alguna dicen “comidas sabrosas que se preparan”.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 60,
+      "concepto": "<nh> Nance",
+      "significado": "<nh>  Su poca distribución en la zona dificulta el conocimiento entre pobladores, algunos pocos que lo conocen lo utilizan para realizar vinos y/o licores, y comentan que en pocas ocasiones se ha llegado a comercializar. ",
+      "significado2": "<nh> Dentro de los datos investigados se tiene que la cáscara del fruto se llega a utilizar para extraer colorante. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 61,
+      "concepto": "<nh> Nopal",
+      "significado": "<nh>  Es una especie que no se encuentra distribuida en las comunidades fácilmente ya que el medio que lo rodea no coincide con los requerimientos que necesita para un óptimo desarrollo, las personas lo llegan a conseguir en los mercados de la zona, lo ocupan como alimento principalmente. ",
+      "significado2": "<nh> Algunos otros lo consumen para los problemas de gastritis y diabetes en licuado, se consume crudo cuando sube el colesterol y algunos habitantes más mencionan que es muy bueno para regularizar la presión arterial y la menstruación. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 62,
+      "concepto": "<nh> Nuez de macadamia",
+      "significado": "<nh>  Los habitantes de las cuatro comunidades expresan que -se tiene que sembrar el arbolito porque en el campo, no lo hay-. ",
+      "significado2": "<nh> Utilizan principalmente el fruto para hacer dulces típicos, y lo consumen en postres o solo como si fueran cacahuates. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 63,
+      "concepto": "<nh> Oreja de elefante",
+      "significado": "<nh>  Conocida en San Andrés Tzicuilan con el nombre de planta bandera. ",
+      "significado2": "<nh> En las cuatro  comunidades indicaron que se da entre los cafetales, también que es una planta ornamental que se vende mucho a los turistas y en cuanto a uso medicinal algunas personas de San Miguel Tzinacapan expresan que  las hojas son buenas en té cuando duele el estomago, pero no todos la usan.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 64,
+      "concepto": "<nh> Orquídea cola de pato ",
+      "significado": "<nh>  Se encuentra en algunas zonas húmedas, algunos de los habitantes no les dan uso, pero otros las ocupan como plantas de ornato y han observado que se llegan a vender a turistas que llegan al municipio, comúnmente las llegan a conocer como “tepetoros” y según algunos habitantes ocupan el pseudobulbo de esta especie para aplicarlo molido de manera directa en alguna herida que se tenga. ",
+      "significado2": "<nh> Por el contrario, hay personas que conocen que estas especies de plantas tienen un valor comercial en el mercado y que son muy llamativas por los colores y formas que presentan, sin embargo, dicen que venderlas es un delito ya que ellos han escuchado que son plantas protegidas. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 65,
+      "concepto": "<nh> Orquídea pulpo",
+      "significado": "<nh>  Esta especie es implementada como planta de ornato por algunos habitantes y algunos otros la han llegado a conocer debido a que en las plazas de las comunidades en ocasiones se llegan a vender, las personas tienen conocimiento de que el comercio de estas especies es ilegal por lo que en algunas ocasiones prefirieron abstenerse a dar más detalles de estas orquídeas, ellos comentan que si ha existido un saqueo ilegal de estas especies en la zona, algunos otros comentan que la especie Prosthechea cochleata es utilizada en “achicuales” para limpiar el agua que ahí se almacena.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 66,
+      "concepto": "<nh> Palo santo",
+      "significado": "<nh>  Es una especie introducida la cual es desconocida por una gran parte de las personas entrevistadas, pero se tiene registro de pocas personas que lo han llegado a observar en el monte en partes altas, también dentro de ellas comentan que la madera se utiliza para leña, que las hojas del árbol junto con varias plantas como la chirimoya, el sauco y las hojas de naranjo sirven para preparar baños en mujeres que recientemente tuvieron un parto. ",
+      "significado2": "<nh> Por otro lado, también comentaron que los baños con las hojas del palo santo sirven para contrarrestar una “fuerte venteada”. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 67,
+      "concepto": "<nh> Papa aérea",
+      "significado": "<nh>  En las cuatro comunidades conocen a la planta con el nombre de papa cimarrona, se da entre la milpa, la consumen hervida, azada o frita presenta sabor similar al de la papa común e incluso un poco al sabor de la haba, pero dulce. ",
+      "significado2": "<nh> Algunas amas de casa mencionaron que preparan tlacoyos y chilpozonte. ",
+      "significado3": "<nh> En cuanto a medicina tradicional se corta en rodajas y se  ponen en la sien para bajar el calor y dolor de cabeza, algunas personas argumentan que  antes se ocupaba hervida para darle a los pollos en lugar de maíz, ahora alimentan a cerdos con la papa aérea porque desconocían que se pudiera usar en comida y en remedio. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 68,
+      "concepto": "<nh> Papaya",
+      "significado": "<nh>  Se comercializa en la región, la mayoría de las personas la consumen por sus propiedades digestivas, el fruto se consume en fresco para preparar agua natural y para licuados~ algunas personas comentaron que las semillas de la papaya se “chupan” cuando se tiene una resaca y que la cascara hervida del fruto sirve en té para aliviar dolores de estómago. ",
+      "significado2": "<nh> Comentan los pobladores de la comunidad de San Miguel Tzinacapan que anteriormente los frutos que se llegaban a producir eran dulces, pero ahora debido al cambio en el clima los frutos son amargos y en ocasiones no se llegan a madurar, aunque la germinación de las semillas es rápida. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 69,
+      "concepto": "<nh> Paragüitas",
+      "significado": "<nh>  Esta especie de planta es utilizada por la mayoría de los pobladores como planta de ornato, en algunos casos se comenta que se llegó a implementar como planta medicinal pero no se sabe para qué enfermedad. ",
+      "significado2": "<nh> Comúnmente se llega a encontrar cerca de pequeños riachuelos y en algunos casos las personas de las comunidades de San Andrés Tzicuilan, San Miguel Tzinacapan, Xocoyolo y Santiago Yancuitlalpan lo han llegado a ver en fincas y en algunos jardines de casas.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 70,
+      "concepto": "<nh> Peperomia",
+      "significado": "<nh>  En San Andrés Tzicuilan reconocen a la planta como oreja de tejón, los habitantes expresan que se encuentra silvestre entre árboles y piedras de uso ornamental y medicinal, se machaca y se le echa aguardiente para aplicar sobre el cuerpo para bajar la temperatura. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 71,
+      "concepto": "<nh> Peral",
+      "significado": "<nh>  El fruto es poco consumido en las comunidades y por algunos habitantes también poco conocido, comentan que es de consistencia muy dura y por lo mismo casi no tiene lugar en el mercado y solo pocas veces lo llegan a encontrar, aunado a que el clima no le favorece en su desarrollo, solo en zonas frías y poco lluviosas comentando que en la comunidad de Xocoyolo hay algunos árboles y algunos pocos contados en las demás. “De las pocas veces que hemos consumido el fruto lo preparamos en té”, ellos comentan. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 72,
+      "concepto": "<nh> Pérsimo",
+      "significado": "<nh>  Es una especie que no se conoce dentro de las comunidades, ninguna persona conoce de su existencia ni conoce algún uso de este árbol. ",
+      "significado2": "<nh> Cabe mencionar que la especie es introducida de China y los frutos que produce se comercializan y se consumen frescos. ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 73,
+      "concepto": "<nh> Pimienta de olor ",
+      "significado": "<nh>  En las cuatro comunidades conocen a la planta y describen que se usa desde hace mucho tiempo para darle sabor a la comida, se caracteriza por tener sabor y olor fuerte, en medicina tradicional se usan las hojas en infusión para aliviar los cólicos causados por la menstruación, dolor de estómago, diarrea y en baños para mujeres después del parto, se hierven las hojas y se toma 1 o 2 veces, caliente o como agua de tiempo. ",
+      "significado2": "<nh> La forma de prepararlo es como infusión, se le puede poner un trozo de chocolate y canela, pero muy poquito, porque la pimienta es “caliente”. ",
+      "significado3": "<nh> Se vende mucho en la región, principalmente la planta hembra que es la que da los frutos, las personas expresan que ahora se tiene que plantar la mata, porque ya no se da en el rancho.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 74,
+      "concepto": "<nh> Piña",
+      "significado": "<nh>  En las cuatro comunidades conocen a la piña y describen que consumen principalmente la fruta como postre y en agua fresca. ",
+      "significado2": "<nh> En medicina tradicional ocupan unas rodajas que dejan serenando durante toda la noche para aliviar el mal de orín y en ayunas es buena para bajar de peso, en té se hierve el “corazón” (centro de la piña) para quitar el calor del estomago, para las reumas y para controlar la diabetes se toma 1 o 3 veces al día como agua de tiempo, su sabor es simple. ",
+      "significado3": "<nh> La cáscara se fermenta en un litro de agua para hacer tepache, las personas expresan que -es una bebida fresca muy sabrosa, quita el calor cuando uno anda en el campo.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 75,
+      "concepto": "<nh> Planta de Oración ",
+      "significado": "<nh>  Comunidades en las que conocen y describen su uso: San Miguel Tzinacapan y San Andrés Tzicuilan reconocen a la planta de oración como hoja de sapo, los habitantes describen que ocupan las hojas para hacer tamales y que se debe plantar para usarla de ornato en jardines.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 76,
+      "concepto": "<nh> Sábila",
+      "significado": "<nh>  En las cuatro comunidades conocen a la sábila y describen que desde hace mucho tiempo se usa la pulpa en remedios caseros, se unta en la cabeza para evitar la caída de cabello, buena para quemaduras y golpes por ser fresca, para el dolor de garganta se corta a la mitad y se pone directamente en el cuello. ",
+      "significado2": "<nh> Los habitantes también la utilizan para hacer té que ayuda a bajar la temperatura, buena para la bilis, la colitis y para desintoxicar la sangre cuando se toma mucho medicamento. ",
+      "significado3": "<nh> Se prepara licuado con un cachito de nopal para la gastritis, el reflujo y el calor en el estómago. ",
+      "significado4": "<nh> Entre otros usos que se le dan a la planta, está la elaboración de pomada, shampoo y mascarilla para el acné. ",
+      "significado5": "<nh> Incluso las personas expresan que protege contra las malas vibras y es bueno tener una mata en la casa, pero regalada porque sirve más-. "
+    },
+    {
+      "id": 77,
+      "concepto": "<nh> Saúco",
+      "significado": "<nh>  Conocido con el nombre de Xomet, en las cuatro comunidades describen que es una planta con muchos beneficios, principalmente las hojas a las que se les atribuye gran variedad de usos medicinales, se juntan con otras hierbas y se preparan baños para curar el susto y la “frialdad” en el cuerpo, en infusión que se toma 3 o 4 veces caliente para controlar la presión, dolor de cabeza, vómito y diarrea. ",
+      "significado2": "<nh> También se machacan y el jugo que sale se toma o se pone directamente sobre la cabeza para evitar la caída del cabello, las personas  mencionan que -para que no antojen los tamales se limpia la olla y se ponen hojas entre la ropa, para evitar el mal aire en los sepelios-. ",
+      "significado3": "<nh> En cuanto a las flores las utilizan en té para aliviar tos y fiebre, del fruto que es un capulín se prepara atole y se obtiene colorante con el que se pintan artesanías hechas del jonote. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 78,
+      "concepto": "<nh> Suculenta",
+      "significado": "<nh>  En las comunidades describen que la usan como ornato, se encuentra mucho en el rancho sobre las piedras que están en el camino incluso algunas veces la llegan a vender en los mercados porque la piden mucho, algunos habitantes expresan que -es muy pegalona, arrancas una hojita y crece rápido-. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 79,
+      "concepto": "<nh> Tepejilote  ",
+      "significado": "<nh>  Es utilizado para adornar los altares en la celebración de Día de muertos, se combina con el cempoalxóchitl. ",
+      "significado2": "<nh> En esa época el tepejilote es comercializado en grandes cantidades, se dice que llega a crecer de manera silvestre en el bosque y que es fácil de producir. ",
+      "significado3": "<nh> Algunas personas comentan que se la raíz es ocupada para la elaboración de “ponche” y la hoja junto con la flor para preparar té, aunque no saben para qué finalidad. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 80,
+      "concepto": "<nh> Teshuat",
+      "significado": "<nh>  Es una especie que se distribuye de manera silvestre en las comunidades entrevistadas, la madera es utilizada para leña, para “horcones” y para construcción de casas (en algunas comunidades). ",
+      "significado2": "<nh> Se comenta entre los habitantes que actualmente la madera ya no es comercializada debido a que han disminuido la cantidad de ejemplares de esta especie, aunque en la actualidad aún se distribuye en la región~ la cantidad de árboles ha ido decreciendo por diferentes factores. ",
+      "significado3": "<nh> El árbol produce unos frutos (capulines) que se utilizan para realizar bebidas, así que también se le llega a conocer como “capulincillo” y se dice que el sabor de la bebida es dulce y ácido, las flores desprenden aromas agradables y en ocasiones son utilizadas como adorno en los altares. ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 81,
+      "concepto": "<nh> Tulipán",
+      "significado": "<nh>  También conocido con el nombre de aretillo en la comunidad de San Andrés Tzicuilan, y en Xocoyolo como Monaguillo. ",
+      "significado2": "<nh> Las personas describen que usan la planta como cerco vivo y para marcar senderos en los terrenos incluso como ornato para arreglar sus altares. ",
+      "significado3": "<nh> En medicina tradicional se usan las hojas en infusión para aliviar el dolor de estomago y diarrea, la flor combinada con buganvilia, canela, limón y miel sirve para la tos.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 82,
+      "concepto": "<nh> Yuca",
+      "significado": "<nh>  En las cuatro comunidades le dan uso al tubérculo (raíz) para ponerle al chilpozonte y consumirla en dulce con azúcar o piloncillo, describen que tiene sabor parecido a la papa o camote, y se vende mucho en todos santos. ",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 83,
+      "concepto": "<nh> Zacate “Formio”",
+      "significado": "<nh>  Es una especie que se utilizada como planta de ornato, se llega a encontrar en casas o en zonas ecoturísticas de la región, se dice que las hojas se utilizan para arreglos florales y en la antigüedad servían para elaborar trampas para pájaros y era conocido como “pita”, asimismo, se utilizaba para amarrar, ya que, las tiras que se obtienen al desgarrar las hojas son muy resistentes. ",
+      "significado2": "<nh> El zacate “formio” no es una especie con gran importancia económica en la zona ya que su morfología es grande y no muy atractiva para los habitantes de las comunidades.   ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 84,
+      "concepto": "<nh> Zapote blanco ",
+      "significado": "<nh>  Los frutos son poco consumidos por las personas, se llega a comercializar muy poco, las personas que consumen aseguran que “si eres una persona que se molesta con facilidad será mejor que no lo comas ya que puedes sufrir de envenenamiento”. ",
+      "significado2": "<nh> Por otro lado, las hojas se preparan en té para bajar los niveles de la presión arterial (5 hojas en 1 litro de agua), y en algunos casos cuando una persona está enferma de “susto” se recomienda bañarse con agua de hojas de zapote blanco, se comenta que los árboles se siembran y no crecen de manera silvestre como otras especies.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 85,
+      "concepto": "<nh> Zapote domingo",
+      "significado": "<nh>  El fruto es consumido por menos de la mitad de las personas entrevistadas, los habitantes han observado que se vende muy poco en los mercados de las comunidades, también que, al igual que otras especies, se está perdiendo la distribución de esta. ",
+      "significado2": "<nh> Los pocos árboles que se encuentran distribuidos son adquiridos en viveros o mediante algunos pocos encargos.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 86,
+      "concepto": "<nh> Zapote negro",
+      "significado": "<nh>  Es un fruto que es consumido por una gran parte de los habitantes, algunos lo consumen para prevenir la gripe, el fruto en té se consume para aliviar los problemas de riñón, para bajar la presión en personas diabéticas. ",
+      "significado2": "<nh> La pulpa del fruto se aplica directamente en la piel en contra de infecciones, las hojas hervidas y machacadas también se aplican en la piel para aliviar la zona afectada, así mismo, se utilizaba para carnada en la pesca~ por otro lado, las hojas del árbol de zapote negro son preparadas en té para las personas que sufren de la presión y que esté no contiene ningún sabor en específico, comentan que el fruto en temporada se vende mucho en la región y su consumo es alto, aunque hay un cierto rechazo debido al color negro que presenta la fruta haciéndose poco agradable a la vista de algunos. ",
+      "significado3": "<nh> Los árboles de zapote negro son vendidos y sembrados en los ranchos de las personas de las mismas comunidades.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    }
+  ],
+  "glosario": [
+    {
+      "id": 0,
+      "concepto": "<nh> Acaules",
+      "significado": "<nh> (del latín acaulis, sin tallo)",
+      "significado2": "<nh> Se aplica a las plantas de tallo tan corto que parece inexistente, de forma que las hojas nacen a ras del suelo",
+      "significado3": "<nh> Algunos ejemplos de ellos son el  tusilago, diente de león, etc.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 1,
+      "concepto": "<nh> Acre",
+      "significado": "<nh> Áspero y picante al gusto y al olfato.",
+      "significado2": "<nh> Es como el sabor y el olor del ajo, del fosforo, etc.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 2,
+      "concepto": "<nh> Aflorar",
+      "significado": "<nh> Salir a la superficie, surgir, aparecer.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 3,
+      "concepto": "<nh> Agroclimática",
+      "significado": "<nh> Una región agroclimática es una zona con características interrelacionadas entre el clima y los sistemas de cultivos.",
+      "significado2": "<nh> El entendimiento de estas interrelaciones ayuda a tomar mejores decisiones en el manejo agronómico de los cultivos.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 4,
+      "concepto": "<nh> Almidón",
+      "significado": "<nh> Polisacárido de reserva de fórmula: (CG H 100 6) n.",
+      "significado2": "<nh> El almidón se presenta en los vegetales en granos esféricos u ovoides, constituidos por capas alrededor de un centro y con formas muchas veces típicas para las diferentes especies vegetales.",
+      "significado3": "<nh> Es poco soluble en el agua, da con ella en caliente el engrudo de almidón.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 5,
+      "concepto": "<nh> Alterna",
+      "significado": "<nh> Hojas dispuestas de a una por nudo del tallo con más de dos ortósticos.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 6,
+      "concepto": "<nh> Alucinógeno",
+      "significado": "<nh> Dicho especialmente de algunas drogas. Que produce alucinación.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 7,
+      "concepto": "<nh> Anastomosándose",
+      "significado": "<nh> Unirse formando anastomosis.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 8,
+      "concepto": "<nh> Anastomosis",
+      "significado": "<nh> La unión de unos elementos anatómicos con otros de la misma naturaleza.",
+      "significado2": "<nh> Los elementos puedes ser de la misma planta, animal o estructura mineral.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 9,
+      "concepto": "<nh> Antidermatofitica",
+      "significado": "<nh> Que tiene propiedades contra infecciones relacionadas con la piel.",
+      "significado2": "<nh> Una infeccion con la que se relaciona especialmente es la epidermis.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 10,
+      "concepto": "<nh> Antipirético",
+      "significado": "<nh> Aplicado a un medicamento que disminuye la fiebre.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 11,
+      "concepto": "<nh> Anual",
+      "significado": "<nh> Plantas que completan su ciclo en un año.",
+      "significado2": "<nh> Sólo tienen tallos fértiles, portadores de flores o esporangios.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 12,
+      "concepto": "<nh> Anverso",
+      "significado": "<nh> Cara en que va impresa la primera página de un pliego.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 13,
+      "concepto": "<nh> Ápice",
+      "significado": "<nh> Termino usual empleado en botánica en el sentido corriente para referirse al ápice geométrico del órgano respectivo.",
+      "significado2": "<nh> Por ejemplo el ápice de la hoja, del fruto, etc.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 14,
+      "concepto": "<nh> Arbustiva",
+      "significado": "<nh> (de arbusto).",
+      "significado2": "<nh> Parecido al arbusto o de su misma condición, por su consistencia leñosa y por su porte.",
+      "significado3": "<nh> Ejemplo: planta arbustiva.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 15,
+      "concepto": "<nh> Arbusto",
+      "significado": "<nh> Planta leñosa, generalmente ramificada desde su base.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 16,
+      "concepto": "<nh> Asincrónica",
+      "significado": "<nh> Carente de sincronía (coincidencia de hechos o fenómenos en el tiempo).",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 17,
+      "concepto": "<nh> Astringentes",
+      "significado": "<nh> Que en contacto con la lengua, produce en esta una sensación mixta entre sequedad intensa y amargor.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 18,
+      "concepto": "<nh> Axila",
+      "significado": "<nh> (del latín axilla).",
+      "significado2": "<nh> Fondo del ángulo superior que forma una hoja, bráctea, etc. con el eje caulinar en que se inserta.",
+      "significado3": "<nh> La axila es importante porque en ella se origina generalmente el nacimiento de las yemas y, por ende, de las ramitas y flores.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 19,
+      "concepto": "<nh> Axilares",
+      "significado": "<nh> (del latín axillaris, relativo a la axila).",
+      "significado2": "<nh> Concerniente a la axila, situado o nacido en ella: rama axilar, racimo axilar.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 20,
+      "concepto": "<nh> Bagazo",
+      "significado": "<nh> Residuo fibroso resultante de la trituración, presión o maceración de frutos, semillas, tallos, etc.",
+      "significado2": "<nh> El bagazo se origina al extraer el jugo, especialmente de la vid o la caña de azúcar.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 21,
+      "concepto": "<nh> Barbechar",
+      "significado": "<nh> Arar la tierra y dejarla sin sembrar para que descanse.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 22,
+      "concepto": "<nh> Barbecho",
+      "significado": "<nh> Tierra labrantía que no se siembra durante uno o más años.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 23,
+      "concepto": "<nh> Basal",
+      "significado": "<nh> Propio de la base o relativo a ella.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 24,
+      "concepto": "<nh> Baya Esférica",
+      "significado": "<nh> Nombre común de diversos frutos carnosos y jugosos.",
+      "significado2": "<nh> Comunmente, las bayas tienen forma redondeada o elipsoidal.",
+      "significado3": "<nh> A menudo, tienen colores llamativos por lo intenso",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 25,
+      "concepto": "<nh> Baya",
+      "significado": "<nh> Fruto carnoso, indehiscente y polispermo.",
+      "significado2": "<nh> Presenta el epicarpio delgado, y el mesocarpio y endocarpio carnosos.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 26,
+      "concepto": "<nh> Bisexual",
+      "significado": "<nh> Que tiene en sí los dos sexos.",
+      "significado2": "<nh> Es hermafrodita.",
+      "significado3": "<nh> Se opone a unisexual.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 27,
+      "concepto": "<nh> Bosques De Galería",
+      "significado": "<nh> También conocido como bosque de ribera o soto.",
+      "significado2": "<nh> Es una masa arbolada de tipo caducifolio que se encuentra dispuesta siguiendo el curso del agua.",
+      "significado3": "<nh> Los podemos encontrar tanto en ríos, como en lagos e, incluso, cerca de la costa.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 28,
+      "concepto": "<nh> Botritis O Moho Gris",
+      "significado": "<nh> Es una enfermedad muy común en cultivos hortícolas como la viña o la fresa.",
+      "significado2": "<nh> También afecta a numerosas plantas de jardinería.",
+      "significado3": "<nh> Es muy probable que se trate de este hongo si hay cambios en las plantas.",
+      "significado4": "<nh> Los cambios pueden ser manchas en las flores o daños en los frutos.",
+      "significado5": "<nh> Si los nuevos brotes comienzan a deformarse y pudrirse, también pude tratarse de este hongo"
+    },
+    {
+      "id": 29,
+      "concepto": "<nh> Bráctea",
+      "significado": "<nh> Estructura laminar situada en la base de la inflorescencia.",
+      "significado2": "<nh> Normalmente son menores y más sencillas que las normales.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 30,
+      "concepto": "<nh> Bulbillo",
+      "significado": "<nh> Yema ordinariamente carnosa aérea o subterránea.",
+      "significado2": "<nh> Nace en la axila de una hoja, en su margen o en las inflorescencias.",
+      "significado3": "<nh> Sirve para reproducción vegetativa.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 31,
+      "concepto": "<nh> Bulbo",
+      "significado": "<nh> Tallo subterráneo de reserva, carnoso.",
+      "significado2": "<nh> Normalmente está formado por la base engrosada de hojas o escamas",
+      "significado3": "<nh> En su parte interna se encuentra la yema apical",
+      "significado4": "<nh> En su base desarrolla raíces adventicias.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 32,
+      "concepto": "<nh> Caducifolio",
+      "significado": "<nh> Que pierde sus hojas cada año.",
+      "significado2": "<nh> Así se llaman los árboles y arbustos que no se conservan verdes todo el año.",
+      "significado3": "<nh> A ellos se les cae la hoja al empezar la estación desfavorable (estación fría o seca)",
+      "significado4": "<nh> A este término se opone el de perennifolio.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 33,
+      "concepto": "<nh> Cáliz",
+      "significado": "<nh> Verticilo floral formado por los sépalos.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 34,
+      "concepto": "<nh> Cataplasma",
+      "significado": "<nh> (de cata- y plasma- cataplasmático).",
+      "significado2": "<nh> Tejido parenquimático indiferenciado de los cecidos.",
+      "significado3": "<nh> Los cataplasmas son producido por vegetales parásitos o por rotíferos, copépodos, nematodos o insectos.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 35,
+      "concepto": "<nh> Cenicilla",
+      "significado": "<nh> (de ceniza).",
+      "significado2": "<nh> Nombre vulgar de la enfermedad de la vid producida por el hongo erisifáceo Oidium Tuckeri Berk.",
+      "significado3": "<nh> El hongo que produce esta enfermedad tambien se conoce como forma cónica de Uncinula necátor.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 36,
+      "concepto": "<nh> Cladodio",
+      "significado": "<nh> Tallo aplanado, fotosintetizador y con varias yemas.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 37,
+      "concepto": "<nh> Copa",
+      "significado": "<nh> Conjunto de las ramas de un árbol, con su follaje o sin él.",
+      "significado2": "<nh> Los romancistas castellanos emplearon también este término usual como traducción de cyma y de umbella.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 38,
+      "concepto": "<nh> Coriácea",
+      "significado": "<nh> (del latín coriaceus, de corium, cuero- es termino usado con frecuencia en las descripciones botánicas).",
+      "significado2": "<nh> De consistencia recia, aunque con cierta flexibilidad, como el cuero.",
+      "significado3": "<nh> En la región mediterránea son frecuentes las plantas de hojas coriáceas, como el laurel, la encina, la adelfa, etc.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 39,
+      "concepto": "<nh> Corola",
+      "significado": "<nh> Conjunto de pétalos que constituyen el verticilo interior del perianto.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 40,
+      "concepto": "<nh> Corteza",
+      "significado": "<nh> Porción exterior de una raíz o tallo que a veces se desprende.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 41,
+      "concepto": "<nh> Cosmopolita",
+      "significado": "<nh> Calificativo aplicado en geobotánica a las especies que se encuentran naturalmente en todos los países.",
+      "significado2": "<nh> Tambien se aplica para plantas que estan en un gran número de paises, en distintas zonas y hemisferios.",
+      "significado3": "<nh> Es equivalente a heterocórico.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 42,
+      "concepto": "<nh> Dermatomucosas",
+      "significado": "<nh> Actividad que presentan algunas plantas para tratar enfermedades asociadas a la piel.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 43,
+      "concepto": "<nh> Dístico",
+      "significado": "<nh> Hojas, ramas, flores, dispuestas en dos hileras, sobre un mismo plano.",
+      "significado2": "<nh> Pueden estar a uno u otro lado del tallo o del raquis de la inflorescencia.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 44,
+      "concepto": "<nh> Drupa",
+      "significado": "<nh> Fruto indehiscente, unicarpelar, uniseminado.",
+      "significado2": "<nh> Tienen mesocarpo carnoso y endocarpo leñoso.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 45,
+      "concepto": "<nh> Edema",
+      "significado": "<nh> (del latín oedema, tumor).",
+      "significado2": "<nh> Hipertrofia e hinchazón blanda y más o menos extensa de un órgano vegetal.",
+      "significado3": "<nh> Los edemas son más bien raros en las plantas.",
+      "significado4": "<nh> Parecen producidos por un desarrollo forzado, coincidente con la relativa carencia hídrica.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 46,
+      "concepto": "<nh> Emoliente",
+      "significado": "<nh> Dicho de un medicamento.",
+      "significado2": "<nh> Que sirve para ablandar una dureza o un tumor.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 47,
+      "concepto": "<nh> Emplasto",
+      "significado": "<nh> Preparado farmacéutico de uso tópico.",
+      "significado2": "<nh> Dicho de un medicamento o de su modo de aplicación.",
+      "significado3": "<nh> De uso externo y local",
+      "significado4": "<nh> Sólido, moldeable y adhesivo.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 48,
+      "concepto": "<nh> Endémica",
+      "significado": "<nh> En botánica se dice de la planta que se considera oriunda del país en que vive.",
+      "significado2": "<nh> Es sinónimo de autóctono y de indígena.",
+      "significado3": "<nh> Propio exclusivamente de determinado país, de una cordillera, de una isla, etc.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 49,
+      "concepto": "<nh> Endocarpio",
+      "significado": "<nh> Capa más interna del fruto, tipo drupa.",
+      "significado2": "<nh> Es la pared leñosa que está en contacto con la semilla.",
+      "significado3": "<nh> Se conoce vulgarmente con el nombre de hueso.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 50,
+      "concepto": "<nh> Enredadera",
+      "significado": "<nh> Planta herbácea que nace del suelo y crece trepándose sobre otra planta.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 51,
+      "concepto": "<nh> Envés",
+      "significado": "<nh> Término usual de significado bien conocido.",
+      "significado2": "<nh> Es aplicado a la hoja, cara inferior de la misma.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 52,
+      "concepto": "<nh> Epicarpio",
+      "significado": "<nh> Capa externa de las tres que forman el pericarpio de los frutos.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 53,
+      "concepto": "<nh> Epífita",
+      "significado": "<nh> Aplicase a los vegetales que viven sobre otras plantas sin sacar de ellas su nutrimento.",
+      "significado2": "<nh> No se trata, por tanto, de parásitos, ya que el hospedante, en este caso, no presta más que soporte.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 54,
+      "concepto": "<nh> Epilítica",
+      "significado": "<nh> Se dice de los vegetales que se desarrollan directamente sobre la superficie de las rocas.",
+      "significado2": "<nh> Muchos líquenes están en este caso.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 55,
+      "concepto": "<nh> Epipétrico",
+      "significado": "<nh> Cementado o endurecido dentro de 50 cm desde la superficie del suelo.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 56,
+      "concepto": "<nh> Erecta",
+      "significado": "<nh> Dícese de la planta que desde el comienzo de su desarrollo tiene el tallo en posición vertical.",
+      "significado2": "<nh> Tambien se le dice así si esta próxima a la vertical.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 57,
+      "concepto": "<nh> Erguir",
+      "significado": "<nh> Levantar y poner derecho a alguien o algo.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 58,
+      "concepto": "<nh> Erosión",
+      "significado": "<nh> En fitopatología- metafóricamente, lesión o alteración superficial en una planta por efecto de substancias corrosivas.",
+      "significado2": "<nh> Existe también una erosión foliar, producida por un virus.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 59,
+      "concepto": "<nh> Escobillón",
+      "significado": "<nh> Cepillo unido a un mango y usado para barrer el suelo.",
+      "significado2": "<nh> Escoba de mango largo para limpiar paredes y techos.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 60,
+      "concepto": "<nh> Espádice",
+      "significado": "<nh> Espiga simple o compuesta.",
+      "significado2": "<nh> De raquis más o menos carnoso.",
+      "significado3": "<nh> Con las flores generalmente unisexuales e inconspicuas.",
+      "significado4": "<nh> Rodeada por una espata.",
+      "significado5": "<nh> Es característica del orden de las espadicifloras."
+    },
+    {
+      "id": 61,
+      "concepto": "<nh> Espata",
+      "significado": "<nh> Bráctea amplia o par de brácteas que envuelven la inflorescencia o el eje florífero.",
+      "significado2": "<nh> las brácteas envuelven como las de los ajos.",
+      "significado3": "<nh> En el espádice, la inflorescencia se halla rodeada por una espata a menudo muy grande y vistosa",
+      "significado4": "<nh> La inflorescencia esta pintada de diversos colores o enteramente blanca.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 62,
+      "concepto": "<nh> Espiga",
+      "significado": "<nh> (del latín spica).",
+      "significado2": "<nh> Inflorescencia racemosa, simple, de flores sésiles.",
+      "significado3": "<nh> Se diferencia del racimo únicamente porque sus flores carecen de pedicelo o lo tiene tan breve que se da por inexistente.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 63,
+      "concepto": "<nh> Espiguilla",
+      "significado": "<nh> (diminutivo de espiga, termino usual).",
+      "significado2": "<nh> Sinónimo de espícula, que debe preferirse.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 64,
+      "concepto": "<nh> Estambre",
+      "significado": "<nh> Organo reproductor masculino de las plantas.",
+      "significado2": "<nh> Consta de un filamento y la antera.",
+      "significado3": "<nh> En la antera se encuentran los sacos polínicos que contienen el polen",
+      "significado4": "<nh> El conjunto de estambres forman el androceo.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 65,
+      "concepto": "<nh> Estipelas",
+      "significado": "<nh> Par de pequeños apéndices laminares, a veces presentes.",
+      "significado2": "<nh> Se ubican en la inserción de los folíolos con el raquis, en la base del peciolulo.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 66,
+      "concepto": "<nh> Estratificada",
+      "significado": "<nh> (de estratificar, disponer o disponerse en estratos o capas).",
+      "significado2": "<nh> Ordenado formando capas superpuestas.",
+      "significado3": "<nh> En los líquenes, dícese del talo compuesto de capas, bien diferenciadas.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 67,
+      "concepto": "<nh> Exótica",
+      "significado": "<nh> En botánica dícese de la planta introducida en determinado país, no propia de él.",
+      "significado2": "<nh> Se opone a autóctono, endémico o indígena.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 68,
+      "concepto": "<nh> Fétido",
+      "significado": "<nh> Que despide olor desagradable y penetrante.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 69,
+      "concepto": "<nh> Fisura",
+      "significado": "<nh> (del latín fissura).",
+      "significado2": "<nh> Hendidura.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 70,
+      "concepto": "<nh> Fitorremediación",
+      "significado": "<nh> Conjunto de tecnologías que reducen in situ o ex situ la concentración de diversos compuestos a partir de procesos bioquímicos realizados por las plantas y microorganismos asociados a ellas.",
+      "significado2": "<nh> La fitorremediación utiliza las plantas para remover, reducir, transformar, mineralizar, degradar, volatilizar o estabilizar contaminantes.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 71,
+      "concepto": "<nh> Folíolo",
+      "significado": "<nh> Cada segmento de una hoja compuesta.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 72,
+      "concepto": "<nh> Follaje",
+      "significado": "<nh> (del latín folium hoja).",
+      "significado2": "<nh> Conjunto de hojas de los árboles y otras plantas.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 73,
+      "concepto": "<nh> Fotoperiodo",
+      "significado": "<nh> Término propuesto por Garner y Allard (1930).",
+      "significado2": "<nh> Designa la duración del tiempo diario en que los organismos están expuestos a la acción de la luz.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 74,
+      "concepto": "<nh> Fronda",
+      "significado": "<nh> Conjunto de hojas o ramas que forman espesura.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 75,
+      "concepto": "<nh> Geófito",
+      "significado": "<nh> Planta terrestre.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 76,
+      "concepto": "<nh> Glabro/A",
+      "significado": "<nh> Desprovisto de pelo.",
+      "significado2": "<nh> Lampiño.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 77,
+      "concepto": "<nh> Haz",
+      "significado": "<nh> En las hojas página superior de las mismas.",
+      "significado2": "<nh> Todas las hojas constan de dos caras o superficies: el haz y el envés.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 78,
+      "concepto": "<nh> Herbácea",
+      "significado": "<nh> Que tiene aspecto de hierba, y principalmente que no está lignificado: planta herbácea, por oposición a planta leñosa.",
+      "significado2": "<nh> Que tiene color de hierba, color verde: cáliz herbáceo, por oposición al petaloide, e. d., no verde.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 79,
+      "concepto": "<nh> Hierba",
+      "significado": "<nh> Planta no lignificada o apenas lignificada.",
+      "significado2": "<nh> Tiene consistencia blanda en todos sus órganos, tanto subterráneos como epigeos.",
+      "significado3": "<nh> Las hierbas son comúnmente anuales o vivaces sólo raramente perennes.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 80,
+      "concepto": "<nh> Hoja",
+      "significado": "<nh> Órgano laminar especializado en realizar la fotosíntesis.",
+      "significado2": "<nh> Normalmente consta de limbo o lámina y peciolo.",
+      "significado3": "<nh> El peciolo puede ensancharse en su base, formando una vaina, y presentar estípulas.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 81,
+      "concepto": "<nh> Inflorescencia",
+      "significado": "<nh> Conjunto de flores estructuradas de formas muy diversas.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 82,
+      "concepto": "<nh> Inflorescencia",
+      "significado": "<nh> Recibe el nombre de inflorescencia todo sistema de ramificación que se resuelve en flores.",
+      "significado2": "<nh> Cuando la flor nace solitaria, en el ápice del tallo o en la axila de una hoja, no existe inflorescencia.",
+      "significado3": "<nh> La inflorescencia supone una ramificación, y como ésta, en líneas generales, es constante para cada especie vegetal.",
+      "significado4": "<nh> Al ser constante para cada especie vegetal se vuelve en un elemento de importancia en morfología y en sistemática.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 83,
+      "concepto": "<nh> Infrutescencia",
+      "significado": "<nh> Se utiliza para designar el conjunto de los frutos que reemplazan a las flores de una inflorescencia.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 84,
+      "concepto": "<nh> Irrigación",
+      "significado": "<nh> Acción y efecto de irrigar.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 85,
+      "concepto": "<nh> Irrigar",
+      "significado": "<nh> Aplicar el riego a un terreno.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 86,
+      "concepto": "<nh> Lanceolada",
+      "significado": "<nh> Hoja con forma de lanza, es decir con forma elíptica y alargada.",
+      "significado2": "<nh> Esta estrechado en el ápice y la base.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 87,
+      "concepto": "<nh> Látex",
+      "significado": "<nh> Jugo generalmente lechoso, por lo común de una gran blancura, a veces amarillo, anaranjado o rojo.",
+      "significado2": "<nh> Fluye de las heridas de muchas plantas, como las euforbias, la celidonia, las asclepiadáceas, etc.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 88,
+      "concepto": "<nh> Lenticela",
+      "significado": "<nh> Formación del suber en los tallos que facilita el intercambio gaseoso.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 89,
+      "concepto": "<nh> Letargo",
+      "significado": "<nh> Estado de inactividad y reposo en que permanecen algunos animales durante determinados períodos de tiempo.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 90,
+      "concepto": "<nh> Longevidad",
+      "significado": "<nh> Largo de vivir o simplemente periodo de vida.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 91,
+      "concepto": "<nh> Melaza",
+      "significado": "<nh> Líquido más o menos viscos, de color pardo oscuro y sabor muy dulce.",
+      "significado2": "<nh> Este queda como residuo de la fabricación de la azúcar de caña.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 92,
+      "concepto": "<nh> Mesocarpio",
+      "significado": "<nh> Capa media, es la pulpa del fruto.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 93,
+      "concepto": "<nh> Mesofilo",
+      "significado": "<nh> Conjunto de tejidos que se hallan entre ambas epidermis de la hoja y entre los nervios de esta.",
+      "significado2": "<nh> Aplicase a los vegetales que se desarrollan a temperaturas y, sobre todo, en condiciones de humedad, de tipo medio, ni bajas ni altas.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 94,
+      "concepto": "<nh> Minador",
+      "significado": "<nh> Son larvas que ocasionan daños en la estructura de las hojas cuando se desarrolla en su interior al realizar galerías o minas.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 95,
+      "concepto": "<nh> Mirmecófilo",
+      "significado": "<nh> Dícese de las plantas que pasan por “amigas de las hormigas”.",
+      "significado2": "<nh> Ofrecer albergue a las hormigas en ciertas cavidades de su organismo, les facilitan substancias nutricias o ambas cosas a la vez",
+      "significado3": "<nh> En algunos casos se trata de una verdadera simbiosis.",
+      "significado4": "<nh> La simbiosis sucede porque las hormigas alojadas y mantenidas, son capaces de defender la planta contra las depredaciones de otras hormigas.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 96,
+      "concepto": "<nh> Monomorfa",
+      "significado": "<nh> Dícese de aquellas especies cuyos individuos presentan todos el miso tipo de flores.",
+      "significado2": "<nh> El que se compone de células de una sola clase.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 97,
+      "concepto": "<nh> Morfótipo",
+      "significado": "<nh> En las especies polimorfas, cualquier estado morfológico con determinados caracteres formales.",
+      "significado2": "<nh> En los sexos dimorfos, ejemplar único de la segunda forma descrita.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 98,
+      "concepto": "<nh> Moteado",
+      "significado": "<nh> Nombre aplicado en Aragón a ciertas enfermedades que se manifiestan por “motas” o manchas en hojas y frutos.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 99,
+      "concepto": "<nh> Narcótico",
+      "significado": "<nh> En botánica aplicase a las substancias capaces de entorpecer la actividad del protoplasma de manera pasajera.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 100,
+      "concepto": "<nh> Nefritis",
+      "significado": "<nh> Inflamación de los riñones.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 101,
+      "concepto": "<nh> Neotropical",
+      "significado": "<nh> Reino floral en el que quedan incluidos los países tropicales y subtropicales de América.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 102,
+      "concepto": "<nh> Nervadura",
+      "significado": "<nh> Conjunto y disposición de los nervios de una hoja, que se aprecia generalmente a simple vista, ya por",
+      "significado2": "<nh> El resalto de estos en el envés o por el examen de la hoja a contraluz.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 103,
+      "concepto": "<nh> Nervio",
+      "significado": "<nh> En botánica, cada uno de los hacecillos fibrovasculares que se hallan en la lámina de la hoja y en otros órganos de naturaleza foliar.",
+      "significado2": "<nh> Se aprecian muy bien a simple vista, algo hundidos en el haz de estas.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 104,
+      "concepto": "<nh> Nervios Primarios",
+      "significado": "<nh> Nervios principales y más sobresalientes en la hoja.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 105,
+      "concepto": "<nh> Oblonga",
+      "significado": "<nh> Más largo que ancho, o excesivamente largo.",
+      "significado2": "<nh> Oblongo vale tanto como alargado.",
+      "significado3": "<nh> Más largo que ancho, alargado y con los bordes paralelos.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 106,
+      "concepto": "<nh> Ornamental",
+      "significado": "<nh> Perteneciente o relativo a la ornamentación o adorno.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 107,
+      "concepto": "<nh> Ortóstico",
+      "significado": "<nh> Línea imaginaria en la filotaxia o filotaxis por la que pasan los puntos de inserción de las hojas o elementos foliares.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 108,
+      "concepto": "<nh> Ovado",
+      "significado": "<nh> Con el contorno en forma de huevo.",
+      "significado2": "<nh> Con la parte más ancha en la zona basal.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 109,
+      "concepto": "<nh> Ovoide",
+      "significado": "<nh> Órganos macizos de forma de huevo.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 110,
+      "concepto": "<nh> Oxitócica",
+      "significado": "<nh> Que estimula la contracción del músculo uterino.",
+      "significado2": "<nh> Aplicado a su estancia o fármaco.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 111,
+      "concepto": "<nh> Panícula",
+      "significado": "<nh> Inflorescencia muy ramificada consistente en un racimo de racimos.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 112,
+      "concepto": "<nh> Pecíolo",
+      "significado": "<nh> Rabillo que une la lámina de la hoja a la base foliar o al tallo.",
+      "significado2": "<nh> Su forma, en general es rolliza y, por lo común, un poco acanalada superiormente.",
+      "significado3": "<nh> Parte de la hoja que une el limbo al tallo.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 113,
+      "concepto": "<nh> Pedregoso",
+      "significado": "<nh> Dicho de un terreno cubierto naturalmente de piedras.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 114,
+      "concepto": "<nh> Perenne",
+      "significado": "<nh> Dícese del vegetal que vive tres o más años.",
+      "significado2": "<nh> Si vive dos, o mas de uno, es bienal.",
+      "significado3": "<nh> Si vive uno o menos de uno, es anual.",
+      "significado4": "<nh> Vegetal cuyo ciclo vegetativo se extiende más de dos años.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 115,
+      "concepto": "<nh> Perturbar",
+      "significado": "<nh> Inmutar, trastornar el orden, o la quietud y el sosiego.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 116,
+      "concepto": "<nh> Pétalos",
+      "significado": "<nh> Piezas de la flor que en conjunto forman la corola.",
+      "significado2": "<nh> Normalmente suelen presentar colores vistosos para atraer a los insectos y permitir la polinización",
+      "significado3": "<nh> Junto a los sépalos del cáliz, forman el perianto.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 117,
+      "concepto": "<nh> Pinnada",
+      "significado": "<nh> Nerviación de la hoja en la que hay un nervio medio principal.",
+      "significado2": "<nh> A ambos lados se disponen varios nervios laterales secundarios.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 118,
+      "concepto": "<nh> Polispermo",
+      "significado": "<nh> Fruto con dos o más semillas.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 119,
+      "concepto": "<nh> Porte",
+      "significado": "<nh> Término usual con que se alude al aspecto general de una planta, que, por su porte, se parece a tal otra~ o a un árbol.",
+      "significado2": "<nh> Que puede ser de gran porte.",
+      "significado3": "<nh> Aspecto de una planta en su conjunto, sin precisar los caracteres de un modo sistemático.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 120,
+      "concepto": "<nh> Prurito",
+      "significado": "<nh> Comezón, picazón.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 121,
+      "concepto": "<nh> Pubescencia",
+      "significado": "<nh> Cuando en algunas plantas la epidermis forma modificaciones denominadas “pelos”.",
+      "significado2": "<nh> Esta pubescencia puede ser unicelular o pluricelular.",
+      "significado3": "<nh> Su origen es siempre una sola célula epidérmica.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 122,
+      "concepto": "<nh> Pulgón",
+      "significado": "<nh> Insecto hemíptero, de uno a dos milímetros de largo.",
+      "significado2": "<nh> Color negro, bronceado o verdoso de cuerpo ovoide.",
+      "significado3": "<nh> Sin alas las hembras y con cuatro los machos.",
+      "significado4": "<nh> Vive parasito sobre algunas plantas, a las que le causa graves daños.",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 123,
+      "concepto": "<nh> Racimo",
+      "significado": "<nh> Prototipo de las inflorescencias llamadas por esta razón racemosas, que corresponde a la ramificación monopódica.",
+      "significado2": "<nh> El racimo se compone de un eje indefinido de cuyos flancos van brotando flores acrópeta-mente sobre sendos pedicelos simples más o menos distantes.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 124,
+      "concepto": "<nh> Raíz",
+      "significado": "<nh> Órgano subterráneo que crece en dirección inversa a la del tallo.",
+      "significado2": "<nh> Tiene funciones principales de absorción y anclaje.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 125,
+      "concepto": "<nh> Reniforme",
+      "significado": "<nh> Con forma de riñón.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 126,
+      "concepto": "<nh> Restricción Hídrica",
+      "significado": "<nh> Limitación de cierta cantidad de agua en la planta.",
+      "significado2": "<nh> Esto impide un mal desarrollo de esta al no realizarse la fotosíntesis de manera adecuada.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 127,
+      "concepto": "<nh> Restringir",
+      "significado": "<nh> Ceñir, circunscribir, reducir a menores límites.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 128,
+      "concepto": "<nh> Reverso",
+      "significado": "<nh> Parte opuesta al frente de una cosa.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 129,
+      "concepto": "<nh> Riberas",
+      "significado": "<nh> Margen y orilla del mar o río. ",
+      "significado2": "<nh> Tierra cercana a los ríos, aunque no esté a su margen.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 130,
+      "concepto": "<nh> Rizoma",
+      "significado": "<nh> Tallos subterráneos alargados, más o menos engrosados.",
+      "significado2": "<nh> Estos dan lugar a tallos aéreos y raíces.",
+      "significado3": "<nh> Suelen presentar escamas (catáfilos).",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 131,
+      "concepto": "<nh> Sacarosa",
+      "significado": "<nh> Es el azúcar de caña, aislada principalmente de ésta y de la remolacha azucarera.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 132,
+      "concepto": "<nh> Savia",
+      "significado": "<nh> Jugo contenido en la planta.",
+      "significado2": "<nh> La savia circula por los elementos conductores de las plantas vasculares.",
+      "significado3": "<nh> La savia llamada ascendente es más fluida.",
+      "significado4": "<nh> Se compone del agua absorbida por las raíces junto con sales del asuelo disueltas en ella.",
+      "significado5": "<nh> La savia circula por los vasos leñosos."
+    },
+    {
+      "id": 133,
+      "concepto": "<nh> Saxícola",
+      "significado": "<nh> Que se cría entre rocas, en los cascajares, etc.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 134,
+      "concepto": "<nh> Segmento",
+      "significado": "<nh> Porciones en las que se divide una hoja o un fruto.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 135,
+      "concepto": "<nh> Sépalos",
+      "significado": "<nh> Piezas de la flor que en conjunto forman el cáliz.",
+      "significado2": "<nh> Suelen ser verdosos y tienen una función protectora.",
+      "significado3": "<nh> Junto a los pétalos de la corola forman el perianto.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 136,
+      "concepto": "<nh> Sotobosque",
+      "significado": "<nh> (de soto- que significa debajo, y bosque).",
+      "significado2": "<nh> Vegetación arbustiva, que se cría en el bosque y alcanza menor altura que su arbolado~ subsuelo.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 137,
+      "concepto": "<nh> Subarbusto",
+      "significado": "<nh> (de sub- y arbusto).",
+      "significado2": "<nh> Sufrútice.",
+      "significado3": "<nh> Mata o matilla.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 138,
+      "concepto": "<nh> Subleñoso",
+      "significado": "<nh> Que es leñoso en la base o en su parte inferior.",
+      "significado2": "<nh> Por ejemplo, el floripondio.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 139,
+      "concepto": "<nh> Subperennifolio",
+      "significado": "<nh> Característica de las plantas que se encuentran por debajo (bajo, por debajo de) de los árboles.",
+      "significado2": "<nh> Se caracterizan por mantener todo el año sus hojas.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 140,
+      "concepto": "<nh> Suculento",
+      "significado": "<nh> Dícese de las hojas, tallos, etc., o de la planta entera, cuando son muy carnosos y gruesos, con abundantes jugos.",
+      "significado2": "<nh> Por ejemplo, casi en todas las cactáceas, crasuláceas, etc.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 141,
+      "concepto": "<nh> Tallo",
+      "significado": "<nh> Eje que lleva hojas y ramas.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 142,
+      "concepto": "<nh> Tanino",
+      "significado": "<nh> Cualquiera de los principios inmediatos vegetales, ternarios (C, H y O), de sabor astringente.",
+      "significado2": "<nh> Precipitan con las sales férricas y dan productos de color azul, negro o verde.",
+      "significado3": "<nh> Son abundantes en varias familias de fanerógamas y en algunas criptógamas vasculares.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 143,
+      "concepto": "<nh> Tubérculo",
+      "significado": "<nh> Tallo subterráneo o raíz hinchados que almacenan sustancias de reserva.",
+      "significado2": "<nh> Porción caulinar engrosada en mayor o menor grado, generalmente subterránea, como la papa.",
+      "significado3": "<nh> Los tubérculos son ricos en substancias de reserva (almidón, inulina, etc.).",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 144,
+      "concepto": "<nh> Tubular",
+      "significado": "<nh> Aplicase al cáliz, corola, etc., de forma cilíndrica.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 145,
+      "concepto": "<nh> Umbela",
+      "significado": "<nh> Inflorescencia racemosa simple, centrípetala o acrópetala.",
+      "significado2": "<nh> Tiene el extremo del raquis o eje principal ensanchado en mayor o menor grado para formar un receptáculo.",
+      "significado3": "<nh> Del receptáculo se arrancan todos los pedicelos, formando una especie de paraguas.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 146,
+      "concepto": "<nh> Vaina",
+      "significado": "<nh> Ensanchamiento en la base del peciolo.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 147,
+      "concepto": "<nh> Variegación",
+      "significado": "<nh> Acción y efecto de variegar.",
+      "significado2": "<nh> Estado de la planta que muestra tejidos o partes vegetativas de distintos colores o de diversa constitución.",
+      "significado3": "<nh> Por ejemplo, porciones verdes y manchas amarillas en las hojas.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 148,
+      "concepto": "<nh> Variegar",
+      "significado": "<nh> Abigarrarse o matizarse, las plantas.",
+      "significado2": "<nh> Tomar colores distintos del verde en ciertas porciones, principalmente en la lamina foliar.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 149,
+      "concepto": "<nh> Velloso",
+      "significado": "<nh> Dícese de las plantas o de los órganos vegetales que tienen vello o pelo.",
+      "significado2": "<nh> El bello no ésta demasiado fino, sino se le llama pubescentes.",
+      "significado3": "<nh> El bello tampoco es demasiado áspero o rígido, sino se dice que son hirsutas o híspidas.",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 150,
+      "concepto": "<nh> Volátiles",
+      "significado": "<nh> Dicho de un líquido que se transforma espontáneamente en vapor.",
+      "significado2": "<nh> ",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    },
+    {
+      "id": 151,
+      "concepto": "<nh> Xilotecnología",
+      "significado": "<nh> Es la disciplina que estudia la madera desde el punto de vista.",
+      "significado2": "<nh> Estos puntos pueden ser: anatómico, estético, físico mecánico, químico e industrial.",
+      "significado3": "<nh> ",
+      "significado4": "<nh> ",
+      "significado5": "<nh> "
+    }
+  ],
+  "galeria": [
+    {
+      "imagen1": "assets/imag/lacueva/galeria1.jpg",
+      "imagen2": "assets/imag/lacueva/galeria2.jpg",
+      "imagen3": "assets/imag/lacueva/galeria3.jpg",
+      "imagen4": "assets/imag/lacueva/galeria4.jpg",
+      "imagen5": "assets/imag/lacueva/galeria5.jpg",
+      "imagen6": "assets/imag/lacueva/galeria6.jpg",
+      "imagen7": "assets/imag/lacueva/galeria7.jpg",
+      "imagen8": "assets/imag/lacueva/galeria8.jpg",
+      "imagen9": "assets/imag/lacueva/galeria9.jpg",
+      "imagen10": "assets/imag/lacueva/galeria10.jpg"
+    }
+  ]
+}
